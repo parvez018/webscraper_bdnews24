@@ -1,0 +1,1708 @@
+Starting from: 2020-01-01
+Date: 2020-01-01
+https://bdnews24.com/archive/?date=2020-01-01
+Request status: OK
+Total news: 35
+news_title: US deploying 750 soldiers after protest at US Embassy in Iraq: Pentagon chief
+Date: 2020-01-02
+https://bdnews24.com/archive/?date=2020-01-02
+Request status: OK
+Total news: 43
+news_title: Former reserved-seat MP Fazilatun Nasa Bappy dies at 49
+news_title: Flood death toll rises to 21 in Indonesian capital
+news_title: Coal-fired plants around New Delhi running despite missing emissions deadline
+news_title: Flood death toll rises to 26 in Jakarta, tens of thousands evacuated
+news_title: Madrasa headmaster’s 4-year-old son found dead in teacher’s wardrobe
+news_title: Taiwan's military chief among eight dead in helicopter crash
+news_title: Major commercial plane crash deaths worldwide fell by more than 50% in 2019: group
+news_title: Denying professor tenure, Harvard sparks a debate over ethnic studies
+Date: 2020-01-03
+https://bdnews24.com/archive/?date=2020-01-03
+Request status: OK
+Total news: 41
+news_title: Iran's top security body to discuss ‘criminal’ attack that killed Soleimani
+news_title: Khamenei says anti-US resistance to increase after Soleimani death
+news_title: Four workers die in sleep after cargo vessel sinks in Buriganga
+news_title: Two die in separate ‘shootouts’ in Chattogram, Satkhira
+news_title: Soleimani was Iran's celebrity soldier, spearhead in Middle East
+news_title: Indonesia plans cloud seeding to halt rain, floods death toll rises to 43
+news_title: Indonesia plans cloud seeding to halt rain, floods death toll rises to 43
+news_title: Military plane crash in Sudan's West Darfur leaves 18 dead
+news_title: Qassem Soleimani, Master of Iran’s Intrigue and Force, Dies at 62
+Date: 2020-01-04
+https://bdnews24.com/archive/?date=2020-01-04
+Request status: OK
+Total news: 22
+news_title: Experts advise not to panic over swine flu after death of ex-MP
+news_title: University student Rumpa’s death remains a mystery after a month
+news_title: Jakarta flooding deaths rise to 53, nearly 175,000 displaced
+news_title: Road crashes, deaths rose in 2019
+Date: 2020-01-05
+https://bdnews24.com/archive/?date=2020-01-05
+Request status: OK
+Total news: 24
+Date: 2020-01-06
+https://bdnews24.com/archive/?date=2020-01-06
+Request status: OK
+Total news: 38
+news_title: Six die as bus, microbus collide in Faridpur
+news_title: 51 die from winter illnesses in Bangladesh
+news_title: Four sentenced to death for killing of businessman in Brahmanbaria
+news_title: Tears from Ayatollah as Iran mourns dead general
+Date: 2020-01-07
+https://bdnews24.com/archive/?date=2020-01-07
+Request status: OK
+Total news: 31
+news_title: India court orders execution of convicts for 2012 deadly rape on Jan 22
+Date: 2020-01-08
+https://bdnews24.com/archive/?date=2020-01-08
+Request status: OK
+Total news: 40
+news_title: Momen mourns victims of deadly Ukrainian plane crash in Iran
+Date: 2020-01-09
+https://bdnews24.com/archive/?date=2020-01-09
+Request status: OK
+Total news: 39
+news_title: Dhaka city polls: Deadline for nomination withdrawal ends Thursday
+news_title: Militant attack in Nigerian town kills 20 soldiers, displaces 1,000 residents
+news_title: China identifies new virus causing pneumonia-like illness
+Date: 2020-01-10
+https://bdnews24.com/archive/?date=2020-01-10
+Request status: OK
+Total news: 24
+news_title: Bagerhat MP Mozammel Hossain dies at 80
+Date: 2020-01-11
+https://bdnews24.com/archive/?date=2020-01-11
+Request status: OK
+Total news: 34
+news_title: Sultan Qaboos, quiet peacemaker who built Oman, dies at 79
+news_title: China reports first death from new virus
+news_title: Four more devotees die at Bishwa Ijtema grounds in Tongi
+Date: 2020-01-12
+https://bdnews24.com/archive/?date=2020-01-12
+Request status: OK
+Total news: 36
+news_title: Deaths in road crashes rose by 8.7pc in 2019: passenger group
+news_title: How many animals have died in Australia’s wildfires?
+news_title: Three more devotees die at Bishwa Ijtema venue in Tongi
+news_title: At least 10 dead in storms as tornadoes, squalls ravage south
+Date: 2020-01-13
+https://bdnews24.com/archive/?date=2020-01-13
+Request status: OK
+Total news: 48
+news_title: Launch collision on Meghna leaves 2 dead, 10 injured
+news_title: No web, no jobs: Kashmiris board the 'Internet Express'
+news_title: Prateeti Datta, twin sister of filmmaker Ritwik Ghatak, dies
+news_title: Pakistani judges rule special court in Musharraf case was unconstitutional
+Date: 2020-01-14
+https://bdnews24.com/archive/?date=2020-01-14
+Request status: OK
+Total news: 36
+news_title: Supreme Court upholds death to wartime collaborator Kaiser
+news_title: Rider dies as truck rams motorcycle in Dhaka
+news_title: At least 57 dead in avalanches in Pakistan
+news_title: Bus falls into sinkhole in northwestern China, 6 dead
+Date: 2020-01-15
+https://bdnews24.com/archive/?date=2020-01-15
+Request status: OK
+Total news: 43
+news_title: Muggers shoot dead Bangladeshi youth in South Africa
+news_title: Two Rohingya 'drug traders' die in alleged shootout in Teknaf
+Date: 2020-01-16
+https://bdnews24.com/archive/?date=2020-01-16
+Request status: OK
+Total news: 37
+news_title: Japan confirms first case of new Chinese coronavirus
+news_title: Three get death for murder of schoolboy in Gaibandha
+news_title: Court issues arrest order for Prothom Alo editor, 9 others over student's death
+news_title: Disease that killed millions of China's pigs poses global threat
+Date: 2020-01-17
+https://bdnews24.com/archive/?date=2020-01-17
+Request status: OK
+Total news: 26
+Date: 2020-01-18
+https://bdnews24.com/archive/?date=2020-01-18
+Request status: OK
+Total news: 29
+news_title: Bogura MP Abdul Mannan dies at 66
+news_title: 3 of a family die in Jashore car crash
+news_title: China reports new Wuhan virus cases ahead of key holiday
+news_title: Canada offers compensation to families of victims of plane downed in Iran
+Date: 2020-01-19
+https://bdnews24.com/archive/?date=2020-01-19
+Request status: OK
+Total news: 35
+news_title: Trump gives dramatic account of Soleimani's last minutes before death
+news_title: Rohingya man dies in alleged shootout with BGB in Cox’s Bazar
+news_title: Sex, power and fury: the mystery of a death at Guantánamo Bay
+news_title: China reports 17 new cases of mysterious virus
+Date: 2020-01-20
+https://bdnews24.com/archive/?date=2020-01-20
+Request status: OK
+Total news: 32
+news_title: China reports jump in deadly virus cases, adding to fears of outbreak
+news_title: Dhaka court sentences 10 to death over 2001 attack on CPB rally
+news_title: Magura AL leader Tanjel Hossain dies
+news_title: Prothom Alo editor gets bail over death of student
+news_title: Five sentenced to death in Laldighi killing
+news_title: New coronavirus outbreak in Chinese city of Wuhan
+news_title: Four sentenced to death over killing of schoolboy for ransom
+Date: 2020-01-21
+https://bdnews24.com/archive/?date=2020-01-21
+Request status: OK
+Total news: 43
+news_title: How Boeing’s responsibility in a deadly crash ‘got buried’
+news_title: Bangladesh to screen travellers from China at airports for deadly coronavirus
+news_title: China virus outbreak spooks global markets as fourth death reported
+news_title: China says new virus can be spread by humans
+news_title: Jashore MP Ismat Ara Sadique dies at 77
+news_title: ‘I stayed alive to tell’: Auschwitz's dwindling survivors recount horrors of Nazi death camp
+news_title: Chattogram airport on alert amid China's coronavirus outbreak
+news_title: Eight Indian tourists die in Nepal after lighting gas heater in hotel
+news_title: Eight Indian tourists die in Nepal after lighting gas heater in hotel
+news_title: Death toll from coronavirus outbreak in China's Wuhan rises to six
+news_title: China’s Communist Party scrambles to confront coronavirus outbreak, a test of its transparency
+Date: 2020-01-22
+https://bdnews24.com/archive/?date=2020-01-22
+Request status: OK
+Total news: 31
+news_title: First Wuhan coronavirus patient identified in the United States
+news_title: Hasina describes deaths of four MPs in a month as ‘painful’ experience for parliament
+news_title: China virus death toll rises to nine as pandemic fears mount
+news_title: Bangladesh appoint West Indian Gibson as bowling coach
+news_title: 3 construction workers die from electrocution in Dhaka
+news_title: What we know about the Wuhan coronavirus
+news_title: 2 Bangladeshis die in alleged BSF fire on Lalmonirhat border
+news_title: 'I will continue to fight': S Korea's first transgender soldier vows to oppose dismissal
+news_title: David Glass, Walmart boss and KC Royals owner, dies at 84
+news_title: China coronavirus deaths rise to 17, heightening global alarm
+Date: 2020-01-23
+https://bdnews24.com/archive/?date=2020-01-23
+Request status: OK
+Total news: 44
+news_title: China's Wuhan shuts down transport as global alarm mounts over virus spread
+news_title: Asian shares wilt, oil tumbles as China virus spreads
+news_title: Militia ally of Iran's Soleimani shot dead in southwest Iran: IRNA
+news_title: Man dies after bus hits rickshaw-van in Dhaka's Motijheel
+news_title: WHO to decide if coronavirus constitutes international emergency
+news_title: Global airlines on high alert as virus outbreak spreads
+news_title: Global airlines on high alert as virus outbreak spreads
+news_title: China's latest virus outbreak exposes perils of exotic wildlife trade
+news_title: China locks down city of 11 mln at epicentre of virus outbreak
+news_title: Coronavirus spotlights Japan contagion risks as Olympics loom
+news_title: China's mask makers cancel holidays, jack up wages as new virus spurs frenzied demand
+news_title: More vegetables, doctor's visits for Shanghai elderly looking to beat virus
+news_title: Dubai to screen passengers on China flights after virus outbreak
+news_title: China locks down two cities at epicentre of virus outbreak
+news_title: Bangladeshi dies in alleged BSF firing in Naogaon border
+news_title: Canadian waterbomber plane crashes while fighting Australia bushfires, three dead
+news_title: Singapore confirms first case of new China virus, another likely
+news_title: Indian nurse in Saudi hospital infected by China coronavirus
+Date: 2020-01-24
+https://bdnews24.com/archive/?date=2020-01-24
+Request status: OK
+Total news: 28
+news_title: WHO says 'bit too early' to declare coronavirus a global emergency
+news_title: 'This is an emergency in China' says WHO, as virus death toll rises to 18
+news_title: China virus death toll mounts to 25, infections spread
+news_title: Singapore ramps up virus fight, reviving memories of SARS pandemic
+news_title: China shuts down transport, temples as virus death toll rises to 25
+news_title: Thailand confirms fifth case of new coronavirus
+news_title: China shuts part of Great Wall as virus toll hits 26
+news_title: Nepal confirms first case of new coronavirus
+Date: 2020-01-25
+https://bdnews24.com/archive/?date=2020-01-25
+Request status: OK
+Total news: 37
+news_title: Man, 26, shoots parents and four other family members dead in Germany
+news_title: US says 34 troops diagnosed with traumatic brain injury after Iran strike
+news_title: Health officials confirm second US case of Wuhan coronavirus
+news_title: Strong earthquake strikes eastern Turkey, four dead
+news_title: China virus death toll rises to 41, more than 1,300 infected worldwide
+news_title: Malaysia confirms first cases of coronavirus infection
+news_title: Woman burnt by Mirpur slum fire dies in hospital
+news_title: Doctor at hospital in China's Hubei province dies from coronavirus
+news_title: Australia confirms first case of coronavirus as protective masks sell out
+news_title: Argentine club makes throne for coach Maradona
+news_title: Shanghai shuts down all cinemas during Lunar New Year holidays
+news_title: China's Wuhan city to ban non-essential vehicles in downtown from Jan 26
+news_title: China virus remains severe, medical supplies very tight
+news_title: HK leader declares virus emergency, halts official visits to mainland China
+news_title: China's Wuhan to build second designated hospital to treat coronavirus patients
+news_title: Virus anxieties cast shadow over Year of the Rat festivities
+news_title: The latest on the coronavirus spreading in China and beyond
+news_title: Xi holds politburo meeting on coronavirus, says China facing ‘grave situation’
+news_title: Bangladesh must stay fully alert to coronavirus: expert
+Date: 2020-01-26
+https://bdnews24.com/archive/?date=2020-01-26
+Request status: OK
+Total news: 43
+news_title: More than 2,000 now infected with coronavirus; 56 dead in China
+news_title: Canada identifies first case of coronavirus
+news_title: Coronavirus: over 100 people under observation in India
+news_title: Suspected killer of 31 fishermen dies in alleged shootout
+news_title: Rescuers pull dozens from rubble as Turkey quake death toll hits 31
+news_title: Hong Kong Disneyland and Ocean Park to be closed from Sunday to help prevent spread of virus: CCTV
+news_title: China's Shantou city to ban cars, ships, people from entering from Jan 27
+news_title: How a virus impacts the economy and markets
+news_title: Two die as truck rams auto-rickshaw in Mymensingh
+news_title: Coronavirus contagion rate makes it hard to control
+news_title: China bans wildlife trade nationwide due to coronavirus outbreak
+news_title: With Wuhan virus genetic code in hand, scientists begin work on a vaccine
+news_title: US to evacuate consulate staff, some citizens from Wuhan
+news_title: China says virus's ability to spread getting stronger
+news_title: College teacher gets death for murder in Barguna
+news_title: Paris cancels Lunar New Year parade over coronavirus
+news_title: US registers third coronavirus case
+news_title: Japan confirms fourth case of patient infected with coronavirus
+news_title: China scrambles to contain 'strengthening' virus
+news_title: Olympic qualifiers moved from China to Sydney due to virus fears
+news_title: HK leader declares virus emergency, halts official visits to mainland China
+news_title: Hong Kong protesters torch planned coronavirus quarantine building
+news_title: France confirms first three cases of coronavirus in Europe
+news_title: Hong Kong bans entry of visitors from China virus province
+news_title: Experts say Bangladesh risks coronavirus outbreak even as no case reported yet
+Date: 2020-01-27
+https://bdnews24.com/archive/?date=2020-01-27
+Request status: OK
+Total news: 43
+news_title: China testing HIV drug as treatment for new coronavirus, AbbVie says
+news_title: NBA icon Kobe Bryant dies in helicopter crash – TMZ
+news_title: Latest on the coronavirus spreading in China and beyond
+news_title: Twenty soldiers killed in Mali attack, government says
+news_title: Kobe Bryant remembered at Grammy Awards hours after his death
+news_title: Australia confirms fifth coronavirus case from last flight out of Wuhan
+news_title: Shares, oil slide as China virus fears intensify; yen, Treasuries in demand
+news_title: Firms in China extend holidays, ask staff to work from home as virus spreads
+news_title: Chinese premier visits virus epicentre as death toll hits 80
+news_title: How to protect yourself from coronavirus
+news_title: China extends holiday, businesses shut as virus toll rises to 81
+news_title: Govt to bring back Bangladeshis from China amid coronavirus outbreak
+news_title: Rajshahi court sentences two to death for killing child after rape
+news_title: Malaysia temporarily bans Chinese visitors from Hubei to curb virus spread
+news_title: China allots nearly $9bn to contain spread of virus
+news_title: Two more missing after Turkey quake kills 39
+news_title: China virus fears push stocks to two-week low, safe havens gain
+news_title: Hasina puts Bangladesh on alert as coronavirus fears intensify
+news_title: Coronavirus panic spreads as 2 of a family die from fever in Munshiganj
+news_title: Chinese national hospitalised in Dhaka with cold, fever amid coronavirus scare
+Date: 2020-01-28
+https://bdnews24.com/archive/?date=2020-01-28
+Request status: OK
+Total news: 47
+news_title: Confusion and lost time: how testing woes slowed China's coronavirus response
+news_title: China virus death toll passes 100 as US, Canada issue travel warning
+news_title: China encourages people to reconsider timing of overseas travel to curb virus spread
+news_title: US, Canada warn against China travel as virus spreads, markets slide
+news_title: China's Tangshan city suspends public transit to prevent spread of coronavirus
+news_title: Beijing reports first death caused by coronavirus
+news_title: Detained robbery suspect dies in Noakhali ‘gunfight’
+news_title: Facebook, others restrict business travel to China as warnings grow
+news_title: Wife of Canada's first coronavirus patient tests positive, 19 under investigation
+news_title: Five die in Moulvibazar shoe store fire
+news_title: One week sufficient for recovery from mild virus symptoms: China NHC expert
+news_title: Thailand coronavirus cases rise to 14, all passengers from China to be screened
+news_title: German auto supplier Webasto says two employees infected with coronavirus
+news_title: Moscow imposes special safety measures at tourist sites over coronavirus fears
+news_title: India says gearing up to evacuate citizens from China after coronavirus
+news_title: Lockdown obstructs evacuation of Bangladeshis from Wuhan, says Momen
+news_title: China says WHO chief against virus-related evacuations, as countries plan pull-outs
+news_title: The new coronavirus: What is it and how does it behave?
+news_title: Hong Kong suspends some rail, ferry links with mainland to curb virus spread
+news_title: Suspected Chinese coronavirus patient gives birth to baby by caesarean
+news_title: High Court confirms death for eight in 2012 rape, murder of Laxmipur schoolgirl
+news_title: China sure of slaying ‘devil’ virus, Hong Kong to cut links
+news_title: Man in Germany contracts coronavirus in one of first cases of transmission outside China
+news_title: Doctor Rathin Datta, Bangladesh’s ‘Friend of Liberation War’, dies at 89
+Date: 2020-01-29
+https://bdnews24.com/archive/?date=2020-01-29
+Request status: OK
+Total news: 38
+news_title: US says nothing off the table on China travel curbs amid virus outbreak
+news_title: Bangladesh not sending experts to China amid coronavirus outbreak
+news_title: Two weeks of home quarantine on return from abroad advised to stop coronavirus spread
+news_title: China virus toll passes 130 as US weighs flight ban
+news_title: Australia scientists claim first re-creation of coronavirus outside China
+news_title: Beijing drugstore fined for hiking mask prices amid virus outbreak
+news_title: China virus turns Macau into gambling ghost town
+news_title: UAE confirms new coronavirus case in family arriving from China
+news_title: Asian shares turn red as Hong Kong tumbles on China virus
+news_title: Airlines cut China flights as companies restrict travel on virus fears
+news_title: 35 Chinese workers on Padma Bridge project under observation amid coronavirus scare
+news_title: Countries evacuating nationals from China virus areas
+news_title: US, Japan pull nationals from China as virus toll jumps
+news_title: Apple's iPhone back to growth as company braces for coronavirus impact
+Date: 2020-01-30
+https://bdnews24.com/archive/?date=2020-01-30
+Request status: OK
+Total news: 36
+news_title: ‘I’m in an apocalypse’: American student trapped in coronavirus-hit Chinese city
+news_title: AL, BNP trade barbs over ‘armed activists’ as campaign crescendoes before deadline
+news_title: Virus anxiety weighs on Asian stocks, boosts safe-haven bid
+news_title: More Japanese evacuated from China virus epicentre as death toll climbs
+news_title: China virus outbreak death toll rises to 170 as infections jump
+news_title: DGHS orders list of all China returnees in last 14 days amid virus fears
+news_title: SSC student shot dead, 10 hurt as rival villagers clash in Gopalganj
+news_title: India reports its first case of coronavirus
+news_title: Policymakers fret over global growth risks from China virus outbreak
+news_title: Bangladeshi returnee from China hospitalised in Dhaka with cold, fever amid coronavirus scare
+news_title: Thousands kept on board Italian liner amid coronavirus scare
+news_title: China virus cases surpass SARS as big economic hit looms
+news_title: UK's Wuhan evacuation flight will also carry 50 non-British citizens: PM's spokesman
+news_title: ‘Get us out of here’, plead foreign students at China virus epicentre
+Date: 2020-01-31
+https://bdnews24.com/archive/?date=2020-01-31
+Request status: OK
+Total news: 31
+news_title: Bangladesh sending jet Friday to fly its nationals from coronavirus-hit Wuhan
+news_title: China virus outbreak an international emergency
+news_title: Coronavirus: US tells citizens not to travel to China as WHO declares global emergency
+news_title: Pilots, flight attendants demand flights to China stop as virus fear mounts worldwide
+news_title: Asia shares fight for footing after turbulent week
+news_title: Special flight to evacuate 361 Bangladeshis from China's Wuhan amid deadly coronavirus outbreak
+news_title: To mask or not to mask: confusion spreads over coronavirus protection
+news_title: Collision between tractor and motorcycle leaves 3 dead in Jhenaidah
+news_title: US warns citizens against travel to China as virus toll passes 200
+news_title: Britain reports first two cases of new coronavirus
+news_title: Singapore bans China travellers to keep out coronavirus
+news_title: Bangladesh evacuees head to Wuhan airport as China virus death toll mounts
+news_title: Myanmar turns back China Southern flight over coronavirus fears
+news_title: India bans export of protective masks, clothing amid coronavirus outbreak
+Date: 2020-02-01
+https://bdnews24.com/archive/?date=2020-02-01
+Request status: OK
+Total news: 49
+news_title: None of two hospitalised China returnees has coronavirus: health directorate
+news_title: Bangladesh evacuating over 300 nationals from Wuhan amid coronavirus outbreak
+news_title: How do bats live with so many viruses?
+news_title: China's Tianjin closes schools, firms until further notice to curb virus: state media
+news_title: China coronavirus toll rises to 259, US imposes border curbs
+news_title: US declares coronavirus health emergency, bars foreign nationals who visited China
+news_title: Spain confirms first case of coronavirus
+news_title: Bangladeshi nationals flying home from Wuhan amid coronavirus outbreak
+news_title: Virus fuels anti-Chinese sentiment overseas
+news_title: 314 Bangladeshis return from coronavirus-ravaged Wuhan
+news_title: Seven Bangladeshis hospitalised with fever on arrival from Wuhan amid coronavirus outbreak
+news_title: Australia bars entry to foreign nationals travelling from mainland China
+news_title: Apple to shut down all official stores in Chinese mainland due to virus outbreak
+news_title: Thailand to evacuate nationals from China virus centre ‘in matter of days’
+news_title: Belgium acquits three doctors in landmark euthanasia case
+news_title: Egypt sentences officer-turned-militant and 36 others to death
+news_title: Masks are on. Games are cancelled. Fear of the coronavirus comes to US colleges
+news_title: Bloomberg fuelled his campaign with $200 million from his fortune
+Date: 2020-02-02
+https://bdnews24.com/archive/?date=2020-02-02
+Request status: OK
+Total news: 54
+news_title: Beijing’s old habits kept world in dark as an epidemic grew
+news_title: Condition of Bangladesh quarantine camp for Wuhan returnees raises fears of infection
+news_title: China's coronavirus infections hit daily record, deaths climb to 304
+news_title: Philippines reports first coronavirus fatality, second confirmed infection
+news_title: The coronavirus: How bad will the crisis get?
+news_title: Vietnam bans all flights to and from China over coronavirus
+news_title: Uber suspends 240 accounts in Mexico to prevent coronavirus spreading
+news_title: UK withdraws some staff from China embassy, consulates over virus
+news_title: US confirms its 8th case of coronavirus; Pentagon to provide quarantine housing
+news_title: Trump and Trudeau discussed coronavirus in Friday phone call
+news_title: 'Please take my daughter': Mother of girl with cancer pleads at virus blockade
+news_title: 3 die as bus rams a battery-run rickshaw in Savar
+news_title: Japan confirms three more citizens evacuated from Wuhan test positive for coronavirus
+news_title: ‘Wash your hands’: Tokyo governor to residents ahead of Olympics as coronavirus spreads
+news_title: Man stabbed to death in Dhaka's Rayer Bazar
+news_title: US military in S Korea imposes quarantine for troops returning from China
+news_title: Venezuela’s capital is booming. Is the revolution over?
+news_title: Bangladesh halts visa-on-arrival for Chinese nationals amid coronavirus fears
+news_title: Inside the California military base a coronavirus evacuee tried to flee
+news_title: China reports bird flu outbreak amid coronavirus epidemic
+news_title: Indonesia to stop flights to and from China amid coronavirus epidemic
+news_title: India reports second case of coronavirus in southern state of Kerala
+news_title: Eight Bangladeshi evacuees from Wuhan ‘stable’ in Dhaka hospitals
+news_title: Cocktail of flu, HIV drugs appears to help fight coronavirus: Thai doctors
+news_title: China seeks to boost economy as first virus death reported outside its borders
+news_title: Bangladeshi describes her lonely fight to prevent coronavirus in Wuhan
+Date: 2020-02-03
+https://bdnews24.com/archive/?date=2020-02-03
+Request status: OK
+Total news: 41
+news_title: Financial market website Zero Hedge knocked off Twitter over coronavirus story
+news_title: In China coronavirus clouds, there may be a silver lining for Bangladesh exports
+news_title: Wuhan coronavirus looks increasingly like a pandemic, experts say
+news_title: China seeks to boost economy as first virus death reported outside its borders
+news_title: Chinese markets plunge as rising virus death toll fuels fears for global growth
+news_title: After 8-day construction, China virus hospital to receive patients
+news_title: Quieter response to coronavirus in countries where China holds sway
+news_title: China seeks to boost economy as first virus death reported outside its borders
+news_title: ‘Scared and panicked’: travellers rush to avoid virus quarantine
+news_title: Maldives bans travellers from China over virus fears, minister says
+news_title: US confirms 11th case of new coronavirus
+news_title: SARS stung the global economy. The coronavirus is a greater menace
+news_title: Virus pummels Wuhan, a city short of supplies and overwhelmed
+news_title: Virus fears wipe $393bn off China's stock market despite govt support moves
+news_title: Three die in road accidents in Bogura
+news_title: Hong Kong suspends 10 border checkpoints with mainland China in bid to curb virus
+news_title: China accuses US of scaremongering over coronavirus
+news_title: China decries travel, visa measures taken against WHO advice on virus
+news_title: Hong Kong medical workers strike to urge closure of China border to block virus
+news_title: Eight China returnees test negative for coronavirus, says IEDCR
+Date: 2020-02-04
+https://bdnews24.com/archive/?date=2020-02-04
+Request status: OK
+Total news: 38
+news_title: Mask prices surge in Bangladesh amid coronavirus scare
+news_title: China virus death toll posts grim record rise, passes 400
+news_title: Beijing in the time of coronavirus: no traffic, empty parks and fear
+news_title: China to allow in US health experts as virus shows no sign of slowing
+news_title: Hong Kong reports first coronavirus death as hospital workers escalate strike
+news_title: Rushing downstairs at end of school, 14 Kenyan children killed in stampede
+news_title: Suspected Rohingya robber dies in ‘shootout’ with RAB in Cox’s Bazar
+news_title: Malaysia confirms first citizen infected with virus, total cases now 10
+news_title: Daniel arap Moi, who ruled Kenya for decades, dies at 95
+news_title: Macau to suspend casino operations for 2 weeks to curb spread of virus
+news_title: Vietnam to quarantine 950 people returning from China at military camps
+news_title: Two killed, ten wounded as bus hits tree in Rajshahi
+news_title: Coronavirus to extreme weather: What happens in a city lockdown?
+news_title: Hong Kong records first virus death, Macau shuts casinos
+news_title: China, desperate to stop coronavirus, turns neighbour against neighbour
+news_title: US prepares to house quarantined patients to contain coronavirus
+news_title: Hyundai to halt South Korea output as China virus disrupts parts supply
+Date: 2020-02-05
+https://bdnews24.com/archive/?date=2020-02-05
+Request status: OK
+Total news: 43
+news_title: SARS stung the global economy. The coronavirus is a greater menace
+news_title: China virus toll nears 500, airlines cut Hong Kong flights, cases found on cruise ship
+news_title: Coronavirus in New York: without Chinese tourists, business sags
+news_title: China virus claims second life off mainland, Macau casinos told to close
+news_title: China farmers, firms feel the pinch on edge of virus exclusion zone
+news_title: Three die as pickup van hits truck in Chattogram
+news_title: Robbery suspect dies in ‘shootout’ with RAB in Dhaka
+news_title: Giving the gift of mobility to a city under quarantine
+news_title: Passengers quarantined on virus-hit cruise ship off Japan
+news_title: Fear and takeout: 14 days in coronavirus ‘self-quarantine’
+news_title: 11 Bangladeshis dead along the border since Dec 25: BGB
+news_title: Two cruise ships ordered into quarantine as virus death toll nears 500
+news_title: Even without symptoms, Wuhan coronavirus may spread, experts fear
+news_title: Spreading along with the coronavirus: Confusion
+news_title: Thousands held on cruise ship in Hong Kong as authorities check for virus
+news_title: Cathay Pacific asks employees to take unpaid leave as virus hits demand
+news_title: Five sentenced to death for killing child in Dinajpur
+news_title: WHO: ‘no known effective’ treatments for new coronavirus
+news_title: Three businessmen from S Korea, Malaysia contract coronavirus after Singapore conference
+Date: 2020-02-06
+https://bdnews24.com/archive/?date=2020-02-06
+Request status: OK
+Total news: 42
+news_title: Don’t get misled, panicked by coronavirus rumours on social media: IEDCR director
+news_title: China virus toll jumps to 563 as more cases found on cruise ship off Japan
+news_title: China clamps down on negative news
+news_title: Kirk Douglas, Hollywood's tough guy on screen and off, dead at 103
+news_title: Taiwan says China feeding WHO wrong information about virus cases on island
+news_title: Twenty virus infections on cruise ship in Japan; passengers confined to cabins
+news_title: Three sentenced to death over killing of AL leader in Lakshmipur
+news_title: Myth busters: WHO issues advice for public on novel coronavirus
+news_title: Saudi Arabia suspends travel of citizens and residents to China
+news_title: $675 million needed to fight new coronavirus outbreak: WHO
+news_title: High speed train derails in northern Italy, two drivers die
+news_title: Mothers may pass coronavirus to unborn children, say Chinese doctors
+news_title: Kazakhstan bans exports of masks to China amid virus scare
+news_title: Trapped on a cruise ship by the coronavirus: When is breakfast?
+news_title: Desperate for coronavirus solutions, Chinese turn to HIV drugs, gray market and traditional cures
+news_title: Chinese city accused of stealing virus masks from hard-hit neighbour
+news_title: Qualcomm says China virus threatens phone industry disruption
+news_title: WHO probes Singapore meet linked to spread of coronavirus
+news_title: Losing track of time in the epicentre of China’s coronavirus outbreak
+news_title: Not all need to use face masks, IEDCR says as coronavirus scare drives prices
+news_title: China to halve tariffs on some US imports as virus risks grow
+news_title: Why the new coronavirus (mostly) spares children
+Date: 2020-02-07
+https://bdnews24.com/archive/?date=2020-02-07
+Request status: OK
+Total news: 39
+news_title: Doctor who tried to warn of outbreak near death from coronavirus
+news_title: Another 41 on cruise liner off Japan test positive for coronavirus
+news_title: Rally in stocks runs out of steam as coronavirus toll climbs
+news_title: China's Xi tells Trump Beijing will defeat coronavirus as doctor's death sparks outcry
+news_title: Robbery suspect dies in Dinajpur ‘shootout’
+news_title: ‘I keep hearing painful coughs’: Life on quarantined cruise ship
+news_title: China begins testing an antiviral drug in coronavirus patients
+news_title: As the virus spreads, face mask makers go into overdrive
+news_title: Africa, intertwined with China, fears coronavirus outbreak
+news_title: 11 China returnees test negative for coronavirus, says IEDCR
+news_title: S Korea mass wedding attracts thousands despite virus fears
+news_title: Gates Foundation donates $100 million to fight coronavirus
+news_title: Death of doctor who sounded coronavirus alarm sparks anger at government
+news_title: China scientists identify pangolin as possible coronavirus host
+news_title: WHO warns of global shortage of coronavirus protective equipment
+news_title: Bangladeshi students in Yichang appeal for evacuation amid coronavirus lockdown
+news_title: Turkish clothes makers see orders shifting from coronavirus-hit China
+news_title: Myanmar watermelon farmers feel pinch as coronavirus hits China trade
+Date: 2020-02-08
+https://bdnews24.com/archive/?date=2020-02-08
+Request status: OK
+Total news: 36
+news_title: Widespread outcry in China over death of coronavirus doctor
+news_title: Singapore raises virus alert to SARS level, sparking panic buying
+news_title: How to survive in an outbreak
+news_title: Death toll from new coronavirus set to surpass SARS, as China's fatalities above 700
+news_title: A new martyr puts a face on China’s deepening coronavirus crisis
+news_title: Japanese man hospitalised with pneumonia in Wuhan dies, coronavirus suspected
+news_title: New report on 138 coronavirus cases reveals disturbing details
+news_title: US citizen died from coronavirus in China's Wuhan
+news_title: Inundated with flu patients, US hospitals brace for coronavirus
+news_title: Lifeblood of Amazon merchants threatened as coronavirus infects Chinese workers
+news_title: Bangladesh to screen all inbound travellers amid coronavirus scare
+news_title: Overnight brawl in Kazakhstan leaves 8 dead, scores wounded
+news_title: Thailand reports 7 new coronavirus cases
+news_title: China returnee admitted to Rangpur hospital over coronavirus suspicion
+news_title: What big business is saying about the coronavirus
+news_title: Bagerhat crab farmers left in the lurch as China bans imports amid coronavirus scare
+news_title: Coronavirus disrupts travel plans across Asia
+news_title: Five Britons contract coronavirus in French ski resort
+news_title: In Hong Kong, the coronavirus strikes a wounded city
+news_title: Thai soldier kills at least 10 in shooting rampage
+news_title: Bangladesh scraps plans to evacuate 171 nationals from locked-down Chinese cities
+Date: 2020-02-09
+https://bdnews24.com/archive/?date=2020-02-09
+Request status: OK
+Total news: 42
+news_title: Coronavirus hits trade fairs, conferences
+news_title: Deaths from China's coronavirus outbreak surpass deaths from SARS
+news_title: American, Afghan soldiers killed in shootout in Afghanistan: NY Times
+news_title: Where’s Xi? China’s leader commands coronavirus fight from safeheights
+news_title: Thai soldier's killing spree left 26 dead, 57 wounded: PM
+news_title: Local Awami League leader found dead with throat slit in Noakhali
+news_title: Philippines evacuates 30, including infant, from virus-hit Wuhan
+news_title: In China's locked-down coronavirus city, grocery delivery is a lifeline
+news_title: Malaysia expands China traveller ban as coronavirus spreads
+news_title: Death of American fuels concern over China’s approach to coronavirus
+news_title: ‘I'm not reckless’: China courier braves coronavirus to keep city supplied
+news_title: Adam Sandler laughs off Oscar snub as he wins indie acting prize
+news_title: Spain confirms its second coronavirus case
+news_title: China coronavirus putting more pressure on pork supplies, prices
+news_title: No coronavirus symptom in China returnee hospitalised in Rangpur: IEDCR
+news_title: China's coronavirus deaths surpass SARS as country plans halting return to work
+Date: 2020-02-10
+https://bdnews24.com/archive/?date=2020-02-10
+Request status: OK
+Total news: 26
+news_title: Migrant worker in Singapore is first Bangladeshi coronavirus patient
+news_title: Coronavirus epidemic reaches bleak milestone, exceeding SARS toll
+news_title: China slowly returns to work as coronavirus toll hits daily record
+news_title: ‘Innocent, but implicated’: Wuhan native is in limbo during epidemic
+news_title: HC upholds death penalty to five JMB activists in murder of lawyer Haider Hossain
+news_title: China returnee to be transferred to Dhaka hospital from Rangpur
+news_title: Sixty more people confirmed with coronavirus on cruise ship in Japan: media
+Date: 2020-02-11
+https://bdnews24.com/archive/?date=2020-02-11
+Request status: OK
+Total news: 35
+news_title: China reports record in daily deaths as it struggles to return to work
+news_title: China reports record daily virus death toll, but new cases fall
+news_title: 15 dead, 62 rescued alive as trawler sinks in Bay of Bengal
+news_title: More than 100 troops have brain injuries from Iran missile strike, Pentagon says
+news_title: Thailand bars cruise ship amid coronavirus fears
+news_title: ‘Like Europe in medieval times’: virus slows China’s economy
+news_title: UK declares coronavirus ‘imminent threat’ as Europe scrambles
+news_title: ‘Come home’: Pakistan student in Wuhan misses father's funeral, anxiety grows
+news_title: Hiding from coronavirus in Indonesia. But is it truly virus-free?
+news_title: Drug suspect dies in alleged shootout with police in Naogaon
+news_title: China's top virus expert says outbreak may peak this month
+news_title: Coronavirus emergency ‘holds a very grave threat’ for world: WHO
+news_title: China returnee transferred to Dhaka from Rangpur shows no coronavirus symptom: IEDCR
+Date: 2020-02-12
+https://bdnews24.com/archive/?date=2020-02-12
+Request status: OK
+Total news: 45
+news_title: WHO brands coronavirus ‘public enemy number one’
+news_title: Singapore confirms second Bangladeshi coronavirus patient
+news_title: Coronavirus now has a name: COVID-19
+news_title: As foreigners flee China, Pakistan tells its citizens to stay
+news_title: New coronavirus cases lowest since Jan 31 in China province at outbreak's epicentre
+news_title: Japan cruise ship coronavirus cases climb to 175, including quarantine officer
+news_title: Two die as pickup van hits parked truck in Rajshahi
+news_title: Coronavirus patients in Wuhan dance to song about red flowers
+news_title: Coronavirus costs Vietnamese airlines $430 mln in lost revenue
+news_title: New coronavirus cases fall, experts disagree over whether peak is near
+news_title: Stocks inch higher as new coronavirus cases fall
+news_title: A store, a chalet, an unsealed pipe: Coronavirus hot spots flare far from Wuhan
+news_title: Singapore bank DBS evacuates 300 staff at head office after coronavirus case emerges
+news_title: Iran woman dies of suspected coronavirus infection
+news_title: Turkey says 51 Syrian soldiers killed as rebels hit back in Idlib
+news_title: HC acquits 4 suspects over child's death in abandoned well
+news_title: Third China returnee admitted to Rangpur coronavirus unit
+Date: 2020-02-13
+https://bdnews24.com/archive/?date=2020-02-13
+Request status: OK
+Total news: 37
+news_title: Coronavirus forces foreign students in china to choose: stay or go
+news_title: Bangladesh woman dies of heart attack on rumours son has coronavirus infection
+news_title: Bangladesh screening Maitree Express passengers from India amid coronavirus scare
+news_title: Coronavirus death toll leaps in China's Hubei province
+news_title: How many Coronavirus cases in China? officials tweak the answer
+news_title: Jump in new coronavirus cases stymies stock rally
+news_title: Toxic air costs Bangladesh $14bn each year: report
+news_title: Australia extends virus ban on arrivals from mainland China
+news_title: Chinese public dial in for support as coronavirus takes mental toll
+news_title: Coronavirus spells brutal Valentine's Day for Shanghai dining spots
+news_title: Two more Bangladesh nationals infected with coronavirus in Singapore
+news_title: Vietnam quarantines rural community of 10,000 over coronavirus fears: officials
+news_title: Hasina sends condolences to Xi for coronavirus deaths in China
+Date: 2020-02-14
+https://bdnews24.com/archive/?date=2020-02-14
+Request status: OK
+Total news: 22
+news_title: Hunt on for 'patient zero' who spread coronavirus globally from Singapore
+news_title: Coronavirus cases in China epicentre fall, cruise ship disembarks in Cambodia
+news_title: As passenger angst grows, Japan to let some off ship, but fewer than hoped
+news_title: 5 workers die as bus collides with Nasiman in Gopalganj
+news_title: China reports 5,000 new coronavirus cases, cruise ship disembarks in Cambodia
+news_title: China expands chaotic dragnet in coronavirus crackdown
+news_title: Billie Eilish releases theme to forthcoming James Bond film 'No Time to Die'
+news_title: After first death, Japan pledges more containment effort; cases increase
+news_title: Woman, 2 children found dead in Dhaka home, police recover bodies
+Date: 2020-02-15
+https://bdnews24.com/archive/?date=2020-02-15
+Request status: OK
+Total news: 26
+news_title: China’s doctors, fighting the coronavirus, beg for masks
+news_title: Beijing tightens quarantine rules in coronavirus battle
+news_title: China sees 2,641 new coronavirus cases, 143 deaths, as it struggles to slow spread
+news_title: Trump thanks Cambodia over ship in rare message to China-ally
+news_title: Elderly man dies as bus plunges into ditch in Gopalganj
+news_title: Shuttered stores, fewer tourists: Luxury feels coronavirus effects
+news_title: They documented the coronavirus crisis in Wuhan, then they vanished
+news_title: Chinese tourist in France dies of coronavirus, first fatality in Europe - minister
+news_title: Wandering ship becomes ‘best cruise ever’ despite coronavirus fears
+news_title: Singapore confirms fifth Bangladeshi coronavirus patient from Bombardier construction site
+Date: 2020-02-16
+https://bdnews24.com/archive/?date=2020-02-16
+Request status: OK
+Total news: 47
+news_title: Over 6,000 bodies found in Burundi's mass graves
+news_title: Bangladesh sending Wuhan evacuees home after coronavirus clearance
+news_title: New Chinese coronavirus cases show slight fall; Chinese tourist dies in France
+news_title: China’s leader, under fire, says he led coronavirus fight early on
+news_title: WHO chief says coronavirus still an emergency for China
+news_title: Another 70 people test positive for coronavirus on ship in Japan
+news_title: Former Awami League MP Rahmat Ali dies at 75
+news_title: Nepal evacuates 175 citizens, mostly students, from Wuhan after coronavirus outbreak
+news_title: North Korea's Kim makes first public appearance in 22 days amid virus outbreak
+news_title: In coronavirus, $45-billion cruise industry faces a big challenge
+news_title: A hunt for clues in Hawaii after a tourist couple falls ill with coronavirus
+news_title: Wuhan returnees must be cautious for 10 more days: IEDCR
+news_title: Three dead, 20 hurt as bus plunges into ditch after hitting motorbike in Sirajganj
+news_title: To tame coronavirus, Mao-style social control blankets China
+news_title: Nine homeless drug users shot dead in Afghan capital
+news_title: Coronavirus curbs start to work; 70 more cases on cruise ship: China
+news_title: Taiwan's health ministry confirms first coronavirus death on island, cases at 20
+news_title: Chinese woman is fourth person admitted to Rangpur Corona Unit
+news_title: Virus spreads on ship in Japan, American passengers set to disembark
+news_title: HK protesters rally against planned virus quarantine centers
+news_title: N Korea's Kim makes first public appearance in 22 days amid virus outbreak
+Date: 2020-02-17
+https://bdnews24.com/archive/?date=2020-02-17
+Request status: OK
+Total news: 36
+news_title: Bangladeshi returnee from Singapore hospitalised without illness amid coronavirus scare
+news_title: Americans disembark from virus-hit cruise; China says new cases slow
+news_title: ‘Are you sick?’ For Asian Americans, a sneeze brings suspicion
+news_title: Coronavirus cases rise again in China's Hubei province
+news_title: Fast-food companies in China step up ‘contactless’ pickup, delivery as coronavirus rages
+news_title: American woman who left cruise ship tests positive for coronavirus
+news_title: Scramble to track Cambodia cruise ship passengers after coronavirus case reported
+news_title: Woman dead, seven wounded in Narayanganj gas fire
+news_title: Australia to evacuate more than 200 citizens from cruise ship quarantined at Japan port
+news_title: Thailand reports new coronavirus case, to increase entry screening
+news_title: China returnee admitted to Habiganj hospital over coronavirus suspicion
+news_title: Death toll in Rohingya boat capsize rises to 21
+news_title: Virus time crime: Hong Kong police bust toilet paper gang
+news_title: Additional 99 virus infections confirmed on cruise ship in Japan
+news_title: Cruise ship coronavirus rings alarm bells; recession looms for Japan, Singapore
+news_title: Virus deals new blow to Cambodian city bound to China
+news_title: Police recover two bodies from train tracks near Dhaka airport station
+news_title: Chinese ambassador advises against evacuation of 171 Bangladeshis from virus-hit Hubei province
+Date: 2020-02-18
+https://bdnews24.com/archive/?date=2020-02-18
+Request status: OK
+Total news: 34
+news_title: Hundreds of Americans flown home from cruise ship, 14 with coronavirus
+news_title: Coronavirus infections slow in China as Apple becomes latest business casualty
+news_title: They escaped an infected ship, but the flight home was no haven
+news_title: Indian actor Tapas Pal dies at 61
+news_title: Hospital director dies in China's Wuhan, epicentre of coronavirus outbreak
+news_title: Another Narayanganj gas fire victim dies
+news_title: Battling Coronavirus, China signals delay of its top party gathering
+news_title: Rescuers recover two bodies in Karnaphuli River boat capsize
+news_title: Singapore builders seek force majeure advice as coronavirus causes labour crunch
+news_title: Cambodia’s coronavirus complacency may exact a global toll
+news_title: Court sentences three to death for 2011 murder in Dinajpur fishing dispute
+news_title: Coronavirus scare forces Bangladesh to postpone international archery competition
+news_title: Apple warns that coronavirus will hurt revenue
+news_title: Japan plans HIV drug trials to fight coronavirus as Diamond Princess cases rise
+news_title: China sees fall in coronavirus deaths but WHO urges caution
+news_title: Rumours will put efforts to prevent coronavirus at risk: IEDCR
+news_title: India screening Urs pilgrims from Bangladesh, other countries for coronavirus
+Date: 2020-02-19
+https://bdnews24.com/archive/?date=2020-02-19
+Request status: OK
+Total news: 47
+news_title: HSBC plans to cut 35,000 jobs weighed down by virus and Hong Kong unrest
+news_title: Walmart says it’s not lowering forecast because of coronavirus
+news_title: Bangladesh economy stronger than Singapore’s, says Hasina
+news_title: Gold prices rise in Bangladesh as coronavirus uncertainty hits global market
+news_title: In coronavirus fight, China sidelines an ally: its own people
+news_title: New coronavirus cases in China fall for second day as death toll passes 2,000
+news_title: Virus-hit cruise liner passengers start disembarking in Japan after controversial quarantine
+news_title: Second Hong Kong coronavirus death as it awaits stranded cruise passengers
+news_title: WHO says no indication of coronavirus cases in North Korea
+news_title: Bangladeshi man infected with coronavirus in Singapore is in ‘critical’ condition: Momen
+news_title: Unilever, 3M on list of firms eligible for China loans to ease coronavirus crisis
+news_title: Last passengers leave cruise ship in Cambodia after virus clearance
+news_title: Pakistan probes link between soybean dust and deaths in port city of Karachi
+news_title: Economic fallout from coronavirus grows
+news_title: Shamsul Islam, senior lawyer of Noakhali and freedom fighter, dies at 75
+news_title: In coronavirus fight, China sidelines an ally: its own people
+news_title: Two Iranians die after testing positive for coronavirus
+Date: 2020-02-20
+https://bdnews24.com/archive/?date=2020-02-20
+Request status: OK
+Total news: 33
+news_title: China reports drop in coronavirus cases; scientists warn virus may spread easily
+news_title: Japan lets cruise passengers walk free. Is that safe?
+news_title: Two passengers from coronavirus-hit cruise ship in Japan die as public criticism grows
+news_title: Gunman suspected of killing nine in Germany found dead in home
+news_title: Two 'robbers' die in alleged shootout with police in Dinajpur
+news_title: To prevent next coronavirus, stop the wildlife trade, conservationists say
+news_title: Australia extends ban on China arrivals to 4th week on coronavirus worries
+news_title: Three die in crane crash on set of Kamal Haasan’s ‘Indian 2’
+news_title: China to cut $71.3bn insurance fees to help firms amid coronavirus outbreak
+news_title: Coronavirus fears grip South Korea; China reports drop in new infections
+news_title: Bangladesh garment owners ‘concerned’ as China virus disrupts supply
+news_title: WHO says no time for complacency as China coronavirus cases fall
+Date: 2020-02-21
+https://bdnews24.com/archive/?date=2020-02-21
+Request status: OK
+Total news: 30
+news_title: Robbers shoot another Bangladeshi shopkeeper dead in South Africa, third victim from Feni in a month
+news_title: Nine shot dead in suspected racist attack on Germany shisha bars
+news_title: Coronavirus to be big topic for G20 as China reports uptick in cases
+news_title: Clashes, jeers and burning tires greet coronavirus evacuees in Ukraine
+news_title: China finds spike in coronavirus cases in jails, officials fired
+news_title: Coronavirus weakens job market for record number of Chinese graduates
+news_title: ‘No more hugging, no more kissing.’ At home in Hong Kong with 2 front-line doctors
+news_title: Bangladesh handball goalkeeper Sohanur dies in motorcycle crash in Kushtia
+news_title: Iran says coronavirus has spread to several cities, reports two new deaths
+Date: 2020-02-22
+https://bdnews24.com/archive/?date=2020-02-22
+Request status: OK
+Total news: 31
+news_title: Fears of global coronavirus spread as cases accelerate in Iran and South Korea
+news_title: US prepares for coronavirus pandemic, school and business closures: health officials
+news_title: Bangladeshi among new cases of coronavirus in UAE
+news_title: Coronavirus spreads in China prisons, Korean church as fears weigh on global markets
+news_title: Shadowy church is at centre of coronavirus outbreak in South Korea
+news_title: With 4 deaths in Iran and more on 3 continents, fears of coronavirus pandemic rise
+news_title: Coronavirus outbreak to cost global airlines nearly $30bn
+news_title: Iranian mayor tests positive for coronavirus
+news_title: Japan confirms four more virus cases, to close a school for two days
+news_title: Former teacher of Khulna University dies after falling off moving train
+news_title: Needless panic about coronavirus will cause more trouble: IEDCR
+news_title: Samsung Electronics confirms coronavirus case at phone factory complex in S Korea
+news_title: FBCCI urges banks to be flexible as coronavirus outbreak hits Bangladesh imports
+news_title: Bandarban AL leader shot dead, witness to murder dies from 'heart attack'
+Date: 2020-02-23
+https://bdnews24.com/archive/?date=2020-02-23
+Request status: OK
+Total news: 31
+news_title: New coronavirus cases fall in China, but WHO concerned by global spread
+news_title: ‘We’re in a Petri dish’: how a coronavirus ravaged a cruise ship
+news_title: Emergency declared on Pakistan-Iran border over coronavirus
+news_title: Two dead, 79 infected in Italy as govt fights to contain coronavirus outbreak
+news_title: Woman, daughter die as bus overturns in Gazipur
+news_title: S Korea reports 123 new coronavirus cases, fourth death
+news_title: Drug suspect dies in ‘shootout’ in Cox’s Bazar
+news_title: Iran reports 43 people infected with coronavirus, eight dead
+news_title: Eight dead in Turkey after earthquake hits Iran border area
+news_title: Four sentenced to death in Tangail killing
+news_title: S Korea raises disease alert to highest level as virus cases soar
+news_title: Third person dies in coronavirus outbreak in northern Italy
+Date: 2020-02-24
+https://bdnews24.com/archive/?date=2020-02-24
+Request status: OK
+Total news: 45
+news_title: Concern over coronavirus spread grows as cases jump in South Korea, Italy and Iran
+news_title: Coronavirus lockdowns torment an army of poor migrant workers in China
+news_title: Impact of the coronavirus ripples across Asia: ‘it has been quiet, like a cemetery’
+news_title: Global spread of coronavirus raises pandemic fears
+news_title: China allocates $14.16bn for curbing coronavirus outbreak
+news_title: New Zealand extends ban on China arrivals; no curbs yet for other nations
+news_title: Shares drop, gold surges as investors scurry for safety
+news_title: Three die as truck rams auto-rickshaw in Naogaon
+news_title: Singapore to donate $10,000 to family of coronavirus-infected Bangladeshi migrant worker
+news_title: Bahrain's first coronavirus case detected
+news_title: Afghanistan identifies first confirmed coronavirus patient
+news_title: WHO says no longer uses ‘pandemic’ category, but virus still emergency
+news_title: Fourth person dies in coronavirus outbreak in northern Italy
+news_title: Coronavirus kills 12, up to 61 infected in Iran
+news_title: HK warns against travel to S Korea as virus spreads
+news_title: Impact of the coronavirus ripples across Asia: ‘It has been quiet, like a cemetery’
+Date: 2020-02-25
+https://bdnews24.com/archive/?date=2020-02-25
+Request status: OK
+Total news: 49
+news_title: Coronavirus kills 7th person in Italy, pandemic fears grip Wall Street
+news_title: As fears of a pandemic mount, WHO says world is not ready
+news_title: China's Hubei sees rise in new coronavirus cases as infections slow in other provinces
+news_title: Wall Street plunges on fears of coronavirus pandemic
+news_title: New genomic tests aim to diagnose deadly infections faster
+news_title: ‘Recipe for a massive viral outbreak’: Iran emerges as a worldwide threat
+news_title: Washington pledges $1bn for coronavirus vaccine as pandemic risks grow
+news_title: 'Freddie Mercury Close': London street named after Queen singer
+news_title: Singapore's Bangladeshi workers have eyes on home as coronavirus shakes community
+news_title: 'Mission: Impossible' Italy movie shoot delayed by coronavirus
+news_title: Man sentenced to death for murder of his mother in Kushtia
+news_title: Iraq bans travel from seven countries over coronavirus fears
+news_title: S Korea to launch mass coronavirus testing, US pledges $1 bln for vaccine
+news_title: Death toll from Narayanganj gas fire hits five as two more lose battle for life
+news_title: Canary Islands hotel under lockdown after coronavirus case
+news_title: UAE suspends all flights with Iran over coronavirus outbreak
+news_title: Mubarak, the 'Pharaoh' toppled by the Arab Spring, dies at 91
+news_title: Four dead as SUV hits auto-rickshaw head-on in Laxmipur
+news_title: Iranian minister, lawmaker test positive for coronavirus as death toll climbs to 16
+Date: 2020-02-26
+https://bdnews24.com/archive/?date=2020-02-26
+Request status: OK
+Total news: 53
+news_title: Italy's coronavirus outbreak spreads south, death toll rises to 11
+news_title: Death toll from Delhi clashes rises to 17
+news_title: Mainland China reports 406 new cases of coronavirus on Feb 25, deaths up by 52
+news_title: ‘I felt like crying’: Coronavirus shakes China’s expecting mothers
+news_title: Second cruise ship blocked from ports over coronavirus fears
+news_title: S Korea reports 169 new coronavirus cases, including first US soldier
+news_title: Thailand reports 3 new virus cases, urges disclosure of travel history
+news_title: Diageo sees coronavirus hit to 2020 profit of up to $260 million
+news_title: Coronavirus spreads in Asia, Europe, Middle East fuelling market selloff
+news_title: Worried Chinese turn to online doctor consultations amid coronavirus outbreak
+news_title: Nineteen dead, 139 infected with coronavirus in Iran
+news_title: Brazil confirms first coronavirus case in Latin America
+news_title: In coronavirus crisis, Korean city tries openness, a contrast to China
+news_title: Coronavirus pandemic inevitable, US warns as disease spreads across globe
+news_title: Spread of virus could hasten the great coming apart of globalisation
+news_title: Chevron sends 300 British employees home as coronavirus precaution
+news_title: Bangladesh designs three-level alert system to stop coronavirus outbreak
+Date: 2020-02-27
+https://bdnews24.com/archive/?date=2020-02-27
+Request status: OK
+Total news: 49
+news_title: Child among three dead in Eskaton garage fire
+news_title: Coronavirus spreads faster outside China, stoking global fears
+news_title: Six people dead, including gunman, in Molson Coors brewery shooting in Milwaukee
+news_title: Saudi Arabia places temporary ban on Umrah pilgrims over coronavirus
+news_title: Frustrated Trump considers naming coronavirus ‘czar’
+news_title: India evacuates 23 Bangladeshi nationals from virus-hit Wuhan
+news_title: Japanese woman confirmed as coronavirus case for 2nd time, weeks after initial recovery
+news_title: Denmark confirms first coronavirus case in man returning from holiday in Italy
+news_title: World about to be gripped by coronavirus pandemic, Australia's Morrison says
+news_title: Coronavirus clouds Apple's timeline for new iPhones
+news_title: Facebook to ban misleading ads about coronavirus
+news_title: They were infected with the coronavirus. They never showed signs
+news_title: Coronavirus’ next victim? It could be Europe’s open borders
+news_title: Estonia reports first confirmed coronavirus case
+news_title: Iran reports 22 deaths from coronavirus; 141 infected
+news_title: Jute Minister Gazi is not suffering from novel coronavirus infection: IEDCR
+news_title: Emirates won't fly Umrah pilgrims, some tourists to Saudi due to coronavirus outbreak
+news_title: PM Abe asks all Japan's schools to close over coronavirus
+news_title: Coronavirus weakens China’s powerful propaganda machine
+news_title: How exercise might affect our food choices, and our weight
+news_title: Trump’s coronavirus strategy: ‘Stay clean,’ wash hands and avoid friends
+Date: 2020-02-28
+https://bdnews24.com/archive/?date=2020-02-28
+Request status: OK
+Total news: 28
+news_title: H&M sees no big delays in supply yet due to virus outbreak
+news_title: Most coronavirus cases are mild. That’s good and bad news
+news_title: IUB holds seminar, campaigns to raise awareness about coronavirus
+news_title: Stocks take dive not seen since 2011 over virus crisis
+news_title: Mixed messages, test delays hamper US coronavirus response
+news_title: New coronavirus cases in mainland China fall to lowest since January
+news_title: Hong Kong finds coronavirus in pet dog samples, unclear if infected
+news_title: Wanted robbery suspect dies in alleged shootout with police in Jashore
+news_title: Elderly woman with walking disability dies in Mohammadpur home fire
+news_title: Two suspected robbers die in Feni ‘gunfight’
+news_title: Iran coronavirus death toll rises to 34 - health ministry
+news_title: Coronavirus crash wipes $5 trillion off world stocks
+news_title: WHO raises global risk of coronavirus from 'high' to 'very high'
+Date: 2020-02-29
+https://bdnews24.com/archive/?date=2020-02-29
+Request status: OK
+Total news: 41
+news_title: At least 210 people have died from coronavirus in Iran: BBC Persian
+news_title: Corona beer maker says US sales remain strong despite virus outbreak
+news_title: Virus disrupts China’s shipping, and world ports feel effect
+news_title: S Korea reports 594 new coronavirus infections for total of 2,931
+news_title: Coronavirus fears reverberate across global economy
+news_title: UK's Johnson says coronavirus top priority, as first Briton dies
+news_title: Confusion and contradiction reign in Iran’s coronavirus reporting
+news_title: N Korea's Kim guides military drills, warns 'serious consequences' if virus breaks out
+news_title: Hoarding in the USA? Coronavirus sparks consumer concerns
+news_title: Coronavirus cases of unknown origin in US raise new fears
+news_title: Asia's garment industry sees lay-offs, factories closing due to coronavirus
+news_title: New coronavirus infection in Thailand takes tally to 42
+news_title: Mainland China, excluding Hubei, reports lowest new daily infections
+news_title: He drove her to the hospital. She gave him the coronavirus
+news_title: Nigeria responds to first coronavirus case in sub-Saharan Africa
+news_title: Woman dies after falling off rickshaw during robbery in Dhaka
+news_title: In China’s war on the coronavirus, a community is besieged
+news_title: Iran's coronavirus death toll rises to 43, with 593 people infected
+news_title: Two Bangladeshi nationals recover from coronavirus in Singapore
+news_title: Mass hysteria hits 29 workers at Chinese factory in Nilphamari
+news_title: Five dead as truck hits passenger vehicle in Netrokona
+Date: 2020-03-01
+https://bdnews24.com/archive/?date=2020-03-01
+Request status: OK
+Total news: 48
+news_title: First coronavirus death in US reported in Washington state
+news_title: For American military, coronavirus is an enemy to be fought
+news_title: Gatherings banned, travel restricted as coronavirus cases grow worldwide
+news_title: Australia reports first coronavirus death
+news_title: Pakistan confirms two more coronavirus cases, bringing total to four
+news_title: Mainland China reports 573 new coronavirus cases on Feb 29
+news_title: They recovered from the coronavirus. Were they infected again?
+news_title: Thailand records first coronavirus death
+news_title: Trump moves to calm fears as first US death from coronavirus is reported
+news_title: India seeks sourcing alternatives as coronavirus hits China's supply chain
+news_title: Iraq announces five new coronavirus cases
+news_title: Woman burnt in Eskaton garage fire succumbs to injuries as death toll rises to four
+news_title: Suspected coronavirus patient ‘shot dead’ in North Korea
+news_title: Why a coronavirus recession would be so hard to contain
+news_title: Michael Bloomberg will address coronavirus in prime-time TV ad
+news_title: UK steps up coronavirus planning, may bring doctors out of retirement
+news_title: IEDCR suggests home quarantine for returnees from countries with coronavirus cases
+news_title: Making a plague movie, with coronavirus on the doorstep
+news_title: Iran's death toll from coronavirus jumps to 54, with 978 infected
+news_title: Coronavirus cases in Germany jump to 117
+news_title: Five die in car cylinder blast in Gopalganj
+news_title: Washington state declares emergency amid coronavirus death, illnesses at nursing facility
+news_title: No kissing please, we're Swiss, minister urges over coronavirus
+news_title: Samsung and LG Innotek close S Korea plants after confirmed virus cases
+news_title: Pope, blaming a cold, skips Lent retreat for first time in his papacy
+news_title: How does the coronavirus compare to the flu?
+Date: 2020-03-02
+https://bdnews24.com/archive/?date=2020-03-02
+Request status: OK
+Total news: 43
+news_title: Paris' Louvre Museum closed as staff walk out over coronavirus
+news_title: Avoiding coronavirus may be a luxury some US workers can’t afford
+news_title: New York confirms first coronavirus case; US ramps up preparations
+news_title: Man burnt in Eskaton fire loses battle for life; death toll hits 5
+news_title: Global coronavirus death toll tops 3,000
+news_title: South Korea reports 476 new coronavirus cases, raising total to 4,212
+news_title: Indonesia confirms first cases of coronavirus
+news_title: Wuhan closes makeshift hospital as new coronavirus cases in China drop sharply
+news_title: Virus pulls a pillar from the faithful in Italy’s north
+news_title: Tangail court sentences man to death for killing wife over dowry
+news_title: India reports two more cases of coronavirus, taking tally to 5
+news_title: Portugal registers first two cases of coronavirus
+news_title: Second death near Seattle adds to signs coronavirus is spreading in US
+news_title: Border killings don’t go with friendship, Momen says as Shringla claims Indians die too
+news_title: Founder of S Korea church at center of virus outbreak regrets 'great calamity'
+news_title: Economic group warns that virus could significantly slow global growth
+news_title: Suspend airport slot rules immediately because of coronavirus: IATA
+news_title: Foreign funds flee Asia's emerging markets
+news_title: He blames ‘evil’ for South Korea’s coronavirus surge. Officials blame him
+news_title: Saudi Arabia announces first case of coronavirus
+Date: 2020-03-03
+https://bdnews24.com/archive/?date=2020-03-03
+Request status: OK
+Total news: 43
+news_title: Iran finds millions of hoarded gloves as coronavirus deaths hit 66
+news_title: Six dead of coronavirus in Seattle area, US officials scramble to prepare for more cases
+news_title: IEDCR advises against handshakes, hugs as coronavirus spreads further
+news_title: Coronavirus spreading fast outside China but stigma is more dangerous: WHO
+news_title: She faced her ISIS rapist in court, then watched him sentenced to death
+news_title: Surfaces? Sneezes? Sex? How the coronavirus can and cannot spread
+news_title: Indian lawmakers scuffle over citizenship riots where 41 died
+news_title: He blames ‘evil’ for South Korea’s coronavirus surge. Officials blame him
+news_title: As coronavirus numbers rise, CDC testing comes under fire
+news_title: Pope tests negative for coronavirus, Italy report says
+news_title: Two sentenced to death for murder of students in Demra
+news_title: S Korean president declares 'war' on coronavirus as sect leader tests negative
+news_title: Suspect in murder of Noakhali BCL leader Rakib dies in police ‘shootout’
+news_title: England replace handshakes with fist bumps over coronavirus fears
+news_title: 11 bodies found floating on Delhi drains
+news_title: Four die in clashes between border guards and villagers in Khagrachhari
+news_title: Child dies at sea as Greece cracks down on migrants from Turkey
+news_title: China’s coronavirus freeze threatens the global economy
+news_title: ‘The face of the coronavirus’: A Hong Kong student shunned in Italy
+news_title: Coronavirus kills 77, infects 2,336 in Iran
+news_title: Myanmar turns away cruise ship over coronavirus fears
+news_title: Governments shift focus to containment, as virus spreads globally
+news_title: US announces $37m in coronavirus funds for Bangladesh, 24 other countries
+news_title: Bangladeshi pilgrims to get refund as Saudi suspends entry for coronavirus
+news_title: Saudi Arabia restricts entry for Gulf citizens, residents
+news_title: China to send plane to Iran to pick up citizens from virus-stricken areas
+news_title: Powerful tornado hits Nashville, leaving 19 dead across Tennessee
+news_title: Fed slashes interest rates in emergency move
+Date: 2020-03-04
+https://bdnews24.com/archive/?date=2020-03-04
+Request status: OK
+Total news: 40
+news_title: Coronavirus forces IMF, World Bank switch to virtual Spring Meetings
+news_title: As coronavirus disrupts factories, India curbs exports of key drugs
+news_title: Coronavirus: Kuwait restricts entry from Bangladesh, 9 other nations
+news_title: WHO warns of global shortage of medical equipment to fight coronavirus
+news_title: World Bank announces up to $12bn in immediate funds for coronavirus
+news_title: Fifteen Italians test positive for coronavirus in India
+news_title: Tajikistan asks Muslims to pray at home because of coronavirus
+news_title: AL activist hacked to death in Jashore
+news_title: Iran’s coronavirus response: pride, paranoia, secrecy, chaos
+news_title: China reports dwindling new cases, pivots to control risk from overseas
+news_title: ‘No way out’: In China, coronavirus takes toll on other patients
+news_title: Total confirmed coronavirus cases in India rise to 28
+news_title: Thousands wait for hospital beds in South Korea as coronavirus cases surge
+news_title: Bangladeshi national in Italy infected with coronavirus
+news_title: Partly false claim: a 1981 book predicted the coronavirus 2019 outbreak
+news_title: Researchers identify two coronavirus types as China cases dwindle
+news_title: Italy may close schools all over country due to coronavirus: government source
+news_title: Coronavirus has spread to nearly all Iran provinces: president
+news_title: ‘What are the symptoms?’ ‘Is there a cure?’ and other coronavirus questions
+news_title: Italy closes schools and universities until March 15 because of coronavirus
+Date: 2020-03-05
+https://bdnews24.com/archive/?date=2020-03-05
+Request status: OK
+Total news: 39
+news_title: Bangladeshi doctor urges China to allow her to serve coronavirus patients in Wuhan
+news_title: Saudi Arabia suspends pilgrimages for Saudi citizens and residents
+news_title: Italian police uncover online coronavirus fraud
+news_title: IMF chief says coronavirus erases hopes for stronger growth in 2020
+news_title: California declares emergency over coronavirus as death toll rises in US
+news_title: India's coronavirus cases near 30, hit major payments firm
+news_title: Criticised for coronavirus response, Trump points to Obama administration
+news_title: ‘When can we go to school?’: more than classes are missed for coronavirus
+news_title: A ‘Blue Great Wall’ divides a city as it battles the coronavirus
+news_title: Former UN Secretary-General Perez de Cuellar dies
+news_title: Delhi's displaced scrape a living after deadly riots
+news_title: 10 Chinese readers share their stories of the coronavirus crisis
+news_title: Europe 'panicking' over India's pharmaceutical export curbs
+news_title: James Bond movie release pushed back seven months amid coronavirus
+news_title: Police find deputy secretary dead in Dhaka apartment
+news_title: BGB starts case against four dead in Khagrachhari clashes
+news_title: Italy’s elderly suffer heavy toll as coronavirus spreads
+news_title: Three sailors kept in ‘isolation’ in Mongla for coronavirus screening
+news_title: China coronavirus infections spike in central city of Wuhan
+news_title: As India coronavirus cases spike, experts daunted by prospect of South Asia spread
+news_title: Kuwait-bound Bangladeshi travellers in trouble over coronavirus health clearance
+news_title: N Korea's Kim sends 'get well soon' wishes for South's coronavirus battle
+news_title: Stocks slide and airlines flag up to $113 billion in losses
+news_title: Told to stay home, suspected coronavirus patient attended event with students in US
+news_title: India shuts Delhi schools, imposes new travel restrictions over coronavirus
+news_title: Italy coronavirus deaths jump to 148, cases climb to 3,858
+Date: 2020-03-06
+https://bdnews24.com/archive/?date=2020-03-06
+Request status: OK
+Total news: 36
+news_title: Coronavirus clearance for Bangladeshi passengers to Kuwait from Saturday
+news_title: First coronavirus death in Britain confirmed
+news_title: Bangladesh exporters panic as downtrend continues amid global coronavirus spread
+news_title: Kuwait suspends decision asking passengers to provide coronavirus certificates
+news_title: Saudi Arabia denounces Iran for accepting Saudi visitors amid coronavirus
+news_title: Hilmi Razzaque dies; Namaz-e-Janaza on Friday, Qulkhwani Sunday
+news_title: The rich are preparing for coronavirus differently
+news_title: Coronavirus hits two more US states, while cases jump in Washington, New York
+news_title: Six die in road accident in Brahmanbaria
+news_title: Eight dead as microbus crashes into tree in Habiganj
+news_title: ‘Almost without precedent’: Airline industry hit hard by coronavirus
+news_title: Stocks suffer, Treasury yields plumb new depths as virus spreads
+news_title: How to stop touching your face
+news_title: New coronavirus infections may drop to zero by end-March in Wuhan - Chinese govt expert
+news_title: Twitter bans posts that 'dehumanise' people in connection with diseases
+news_title: 14 dead in separate road accidents in Habiganj, Brahmanbaria
+news_title: Bhutan bans tourists after first coronavirus case, India total hits 31
+news_title: Denied in life, India's lower-caste Dalits fight for land in death
+news_title: Coronavirus infections may drop to zero by end-March in Wuhan: Chinese expert
+news_title: 27 dead in attack on ceremony in Afghan capital
+news_title: Vatican reports first case of coronavirus inside its walls
+news_title: Dhaka metro rail worker dies after being hit by rods
+news_title: ‘Drug lord’ Amin Huda, who was jailed for 79 years, dies
+news_title: Australia closes first school after pupil contracts coronavirus
+news_title: Coronavirus infections pass 100,000 as outbreak wreaks financial havoc
+Date: 2020-03-07
+https://bdnews24.com/archive/?date=2020-03-07
+Request status: OK
+Total news: 30
+news_title: A global outbreak is fuelling the backlash to globalisation
+news_title: Italy coronavirus deaths near 200 after biggest daily jump
+news_title: Child dies, 22 missing as two boats capsize in Rajshahi
+news_title: As death toll mounts, governments point fingers over coronavirus
+news_title: Coronavirus found on cruise ship as more US states report cases
+news_title: Bodies of two slaughtered children found in Khilgaon home
+news_title: Kuwait suspends flights to and from seven countries over coronavirus
+news_title: Australian clinic closes after doctor tests positive for coronavirus
+news_title: S Korea's coronavirus cases rise to 6,767 with most cases traced to church
+news_title: ‘The only choice is to wait for death’
+news_title: How to quarantine yourself
+news_title: Iranian MP dies from coronavirus
+news_title: China reports almost all new infections outside Wuhan originated abroad
+news_title: What is the test for coronavirus and how does it work?
+news_title: Shanghai tightens airport checks as imported virus infections in China jump
+news_title: Seventy trapped after Chinese coronavirus quarantine hotel collapses
+Date: 2020-03-08
+https://bdnews24.com/archive/?date=2020-03-08
+Request status: OK
+Total news: 47
+news_title: Maldives confirms first two coronavirus cases; two islands locked down
+news_title: Bangladesh may lose as much as $3bn to coronavirus outbreak in worst scenario: ADB
+news_title: Two more succumb to coronavirus in US, New York declares state of emergency
+news_title: US airport screeners, health workers plagued by fear and anger as coronavirus spreads
+news_title: Italy locks down much of the country’s north
+news_title: ‘The only choice is to wait for death’
+news_title: Four die at collapsed China quarantine site; virus spread slows ex-Wuhan
+news_title: Argentina confirms first death in Latin America of patient with coronavirus
+news_title: Coronavirus deaths rise to 145 in Iran, infections near 6,000
+news_title: China may be beating the coronavirus, at a painful cost
+news_title: US death toll from coronavirus hits 19, New York declares emergency
+news_title: Maldives confirms first two coronavirus cases, two resort islands locked down
+news_title: Hasina urges citizens to follow government's directive to prevent coronavirus outbreak
+news_title: No handshakes, only 'namastes' for top Indian shuttler on virus caution
+news_title: Bulgaria confirms first four cases of coronavirus
+news_title: Bangladesh confirms first three cases of coronavirus
+news_title: Head of Italy's Piedmont region ill with coronavirus
+news_title: Saudi Arabia reports four new cases of coronavirus, taking total to 11
+news_title: S Arabia, Gulf neighbors report more cases of coronavirus
+news_title: Moscow threatens with prison for failure of 'self-isolation' over coronavirus
+news_title: Alarmed Italy locks down north to prevent spread of coronavirus
+news_title: Italy in shock as north locked down to prevent spread of coronavirus
+news_title: Don't come back, Italy's south tells emigres in virus-hit north
+news_title: Mujib Barsha big event postponed, large public gatherings avoided over coronavirus scare
+Date: 2020-03-09
+https://bdnews24.com/archive/?date=2020-03-09
+Request status: OK
+Total news: 44
+news_title: Saudi Arabia locks down Qatif region as coronavirus cases rise in Gulf
+news_title: Qatar bans arrivals from 14 countries, including Bangladesh, over coronavirus fears
+news_title: Surge of virus misinformation stumps Facebook and Twitter
+news_title: Saudi Arabia suspends travel to and from 9 countries including UAE, Bahrain and Egypt
+news_title: Coronavirus may force Americans to avoid crowds and cancel cruises, health official warns
+news_title: Egypt reports first coronavirus fatality as German tourist dies
+news_title: In coronavirus fight, China’s vulnerable fall through the cracks
+news_title: Iran reports further jump in deaths from coronavirus
+news_title: Man sentenced to death for killing child after rape in Wari
+news_title: Columbia University cancels classes after coronavirus exposure
+news_title: Two Australian schools close as coronavirus cases jump
+news_title: Oil crashes after Saudi Arabia starts price war amid slumping demand
+news_title: World stocks sink on coronavirus shock, oil price crash
+news_title: Six die in three-vehicle pile-up in Tangail
+news_title: Germany, France, Switzerland close N Korea missions amid coronavirus concern
+news_title: Thailand tourist arrivals in February fall 44.3% due to coronavirus
+news_title: Saudi Aramco drops 10% after kingdom triggers oil price fall
+news_title: What you need to know about coronavirus right now
+news_title: Coronavirus fear: UK stocks and bonds tumble, PM to chair emergency meeting
+news_title: Hasina advises citizens to avoid crowds amid coronavirus fears
+news_title: Six die in Italy prison riot over anti-coronavirus measures
+news_title: BNP’s Fakhrul accuses govt of hiding coronavirus cases
+news_title: Biman limits flights on 10 international routes amid coronavirus fears
+news_title: No new coronavirus cases detected in last 24 hours, says IEDCR
+news_title: Indian PM cancels Dhaka trip after Bangladesh detects coronavirus
+Date: 2020-03-10
+https://bdnews24.com/archive/?date=2020-03-10
+Request status: OK
+Total news: 43
+news_title: Man of Bangladesh-origin becomes third coronavirus fatality in the UK
+news_title: Italy orders nationwide lockdown to combat back coronavirus
+news_title: Millions of masks stockpiled in Canada's Ontario expired before coronavirus hit
+news_title: Wall Street clobbered as crude plummets, virus crisis deepens
+news_title: China's Hubei province may allow residents to travel
+news_title: China President Xi Jinping goes to Wuhan to inspect epidemic work
+news_title: Cruise ship, floating symbol of America’s fear of coronavirus, docks in Oakland
+news_title: Trump has not been tested for coronavirus: White House
+news_title: China's Hubei province starts ‘health code’ system to kick off travel
+news_title: Singapore charges visitors for coronavirus treatment after imported Indonesian cases
+news_title: Biden, Sanders consider changing campaign plans amid coronavirus outbreak
+news_title: Gates, other charities pledge $125m towards COVID-19 treatments
+news_title: Bangladesh quarantines elderly couple returning from Saudi Arabia
+news_title: Passengers sue over coronavirus-hit Grand Princess cruise ship
+news_title: Crime suspect dies in alleged gunfight in Bogura
+news_title: Coronavirus deaths rise to over 4,000 worldwide
+news_title: India's celebration of festival of colours muted amid coronavirus fears
+news_title: Hasina’s visit to Japan postponed over coronavirus outbreak
+news_title: Lebanon records first death from coronavirus
+news_title: Turnout in schools remains normal despite coronavirus fears
+news_title: Trump has not been tested for coronavirus: White House
+news_title: Bangladesh places dozens under observation on return from abroad amid coronavirus fears
+news_title: No decision yet on shutting schools for coronavirus: Education ministry
+news_title: Harvard to move to virtual classes amid coronavirus outbreak
+Date: 2020-03-11
+https://bdnews24.com/archive/?date=2020-03-11
+Request status: OK
+Total news: 50
+news_title: No new coronavirus patient in Bangladesh, first three ‘stable’
+news_title: Italy in coronavirus lockdown as deaths soar and economy fades
+news_title: China's new coronavirus cases rise on infections from abroad
+news_title: UK health minister Dorries diagnosed with coronavirus
+news_title: Italian coronavirus deaths jump 36pc to 631
+news_title: Talks begin on stimulus plan as Trump plays down virus threat
+news_title: Sanders and Biden cancel events as coronavirus fears upend primary
+news_title: Man City v Arsenal postponed after coronavirus contact
+news_title: Australia unveils $1.6bn health package to combat coronavirus
+news_title: Travel and the coronavirus: Answers to your top questions
+news_title: Business travel sector to lose $820 bln in revenue on coronavirus hit
+news_title: India confirms 62 coronavirus cases; Kerala put under lockdown
+news_title: Indonesia records first death from coronavirus
+news_title: Thailand cancels visa on arrival for 18 countries, visa exemptions for 3 to limit virus spread
+news_title: What you need to know about the coronavirus today
+news_title: Two Bangladeshi patients recover from coronavirus infection, no new cases detected: IEDCR
+news_title: Iraq cancels Friday prayers in Shi'ite holy city of Kerbala over coronavirus fears
+news_title: Family files objection against formal charges over crash victim Rajib’s death
+news_title: Coronavirus puts a wrinkle in wedding industry
+news_title: Govt too busy with Mujib Year celebrations to deal with coronavirus: BNP's Rizvi
+news_title: ECB urges EU governments to spend in fight against coronavirus
+news_title: BCB postpones Mujib Barsha T20s, AR Rahman concert for coronavirus
+news_title: Govt allocates Tk 500m for health services to tackle coronavirus
+news_title: UK pledges $39 billion to protect economy from coronavirus
+news_title: Britain, Italy announce war chests to soften impact of coronavirus
+news_title: World Health Organization describes coronavirus outbreak as pandemic
+news_title: British woman in Bali is Indonesia's first confirmed coronavirus death
+news_title: India cancels all tourist visas, closes Myanmar border as regional coronavirus cases rise
+Date: 2020-03-12
+https://bdnews24.com/archive/?date=2020-03-12
+Request status: OK
+Total news: 38
+news_title: Tom Hanks says he has coronavirus
+news_title: Trump curbs travel from Europe as coronavirus disrupts schools, sports
+news_title: The economic remedies for the coronavirus
+news_title: Coronavirus in New York: desperate for a test, they couldn’t get one
+news_title: Some in Wuhan told to go back to work as new coronavirus cases subside in China
+news_title: White House told federal health agency to classify coronavirus deliberations
+news_title: Stocks plummet after Trump bans travel from Europe to contain coronavirus blow
+news_title: Ban on European travel to US will batter airlines, already roiled by coronavirus
+news_title: How deadly is coronavirus? What we know and what we don’t
+news_title: Greece reports first coronavirus death, 66 year old man
+news_title: Govt orders schools, college to hold assemblies inside classrooms amid coronavirus fears
+news_title: India orders international cricket matches in empty stadiums to combat coronavirus
+news_title: ‘Better than nothing’: Thailand encourages cloth masks amid surgical mask shortage
+news_title: Coronavirus patients are 'improving'; no new cases detected: health minister
+news_title: Real Madrid footballers quarantined after basketball player gets coronavirus
+news_title: Tripura government shuts down all border haats with Bangladesh over coronavirus
+news_title: Merkel gives Germans a hard truth about the coronavirus
+news_title: Bangladesh cancels Independence Day parades, gatherings over coronavirus
+news_title: With Trump’s Europe travel ban, world economy takes another hit
+news_title: Saudi Arabia, Qatar, Kuwait will extend visa for Bangladeshis: Momen
+news_title: Brazil official, who met Trump, tests positive for coronavirus
+news_title: Canada's Trudeau self-isolates as wife is tested for coronavirus
+news_title: Ireland set to close schools, universities over coronavirus: Irish Times
+Date: 2020-03-13
+https://bdnews24.com/archive/?date=2020-03-13
+Request status: OK
+Total news: 30
+news_title: India reports first coronavirus death
+news_title: Italian daily coronavirus deaths jump 23% to 1,016
+news_title: Two jailed in Bangladesh for selling ‘coronavirus vaccine’
+news_title: Markets suffer record meltdown as global coronavirus alarm grows
+news_title: Canadian PM Justin Trudeau's wife Sophie tests positive for coronavirus
+news_title: Trump and Pence won’t be tested after meeting with infected Brazilian official
+news_title: Italy and South Korea virus outbreaks reveal disparity in deaths and tactics
+news_title: US excludes some Chinese medical products from tariffs
+news_title: Policymakers ramp up support as coronavirus shreds markets
+news_title: Bangladeshi coronavirus patient returns home after recovery
+news_title: Cooped up by coronavirus, millions in China discover the joy of cooking
+news_title: Philippine capital on lockdown to contain coronavirus
+news_title: Kremlin, worried by coronavirus, tells journalists who cover Putin to stay away if they feel unwell
+news_title: How to reduce your vulnerability to coronavirus -- when sleeping: doctor
+news_title: Greece swears in first female president, no handshakes amid coronavirus
+news_title: Australian home minister Peter Dutton tests positive for coronavirus
+news_title: N Korea had military forces on lockdown for 30 days over coronavirus: US general
+news_title: Passenger with high temperature sent to hospital from Dhaka airport
+news_title: Why soap works
+news_title: White House convenes meeting after Brazilian president's positive coronavirus test: Fox
+news_title: Trump to declare national emergency over coronavirus: Bloomberg, citing sources
+news_title: Spain declares state of emergency over coronavirus
+news_title: Italian daily coronavirus deaths jump 25% to 1,266
+Date: 2020-03-14
+https://bdnews24.com/archive/?date=2020-03-14
+Request status: OK
+Total news: 42
+news_title: Hasina, five other South Asian leaders agree to Modi’s proposal on coronavirus talks
+news_title: India reports second death from coronavirus
+news_title: Coronavirus study finds children with COVID-19 show milder symptom pattern
+news_title: Trump declares coronavirus a national emergency
+news_title: India coronavirus visa ban spells trouble for Bangladeshis seeking medical treatment
+news_title: Bangladesh national among Saudi Arabia’s 24 new coronavirus cases
+news_title: Demand dives at apparel retailers as virus-wary shoppers stay home
+news_title: India reports second death from coronavirus
+news_title: Late Wall Street rally leads global stocks higher; oil also jumps
+news_title: Saudi Arabia suspends international flights for two weeks over coronavirus fears
+news_title: Over 100 Bangladeshis return from coronavirus-hit Italy
+news_title: Coronavirus alert: How effective is it?
+news_title: Mainland China reports 11 new coronavirus infections; new Hubei cases continue to drop
+news_title: Europe is epicentre of coronavirus pandemic: WHO
+news_title: 13 test positive for swine flu in India's West Bengal
+news_title: Pressed by reporters, Trump says he will be tested for coronavirus
+news_title: Associated Press closes DC office after journalist shows coronavirus symptoms
+news_title: Google, Walmart, join US effort to speed up coronavirus testing
+news_title: Two women fell sick. Only one recovered
+news_title: Coronavirus is shutting schools. Is America ready for virtual learning?
+news_title: As Europe shuts down, Britain takes a different, and contentious, approach
+news_title: Apple to close retail stores worldwide, except Greater China, until March 27
+news_title: Philippine capital to undergo curfew, mall closures as coronavirus deaths rise to eight
+news_title: Nine Bangladeshis in isolation with coronavirus-like symptoms: IEDCR
+news_title: 91 placed under observation in Chapainawabganj amid coronavirus fears
+news_title: Fears rise for world leaders as officials test positive for virus
+news_title: S Korea reports 107 new coronavirus cases, total 8,086
+news_title: Is there really a toilet paper shortage?
+news_title: China spins tale that the US army started the coronavirus epidemic
+news_title: At least five dead as bus collides with truck in Bagerhat
+news_title: New Zealand says everyone entering country must self-isolate to contain coronavirus
+news_title: Hindu group offers cow urine in a bid to ward off coronavirus
+news_title: 23 Bangladeshis evacuated from Wuhan by India return home
+news_title: Ten more people die in England from coronavirus: health service
+news_title: Bangladesh confirms two more coronavirus cases from Germany, Italy
+Date: 2020-03-15
+https://bdnews24.com/archive/?date=2020-03-15
+Request status: OK
+Total news: 45
+news_title: Trump takes coronavirus test, extends travel ban to Britain, Ireland
+news_title: Modi, Hasina to join other South Asian leaders to discuss ways to fight coronavirus
+news_title: On a Saturday night in Florida, a presidential party became a coronavirus hot zone
+news_title: No milk, no bleach: Americans awake to coronavirus panic buying
+news_title: Trump tests negative for coronavirus, extends travel ban to Britain, Ireland
+news_title: Italians find ‘a moment of joy in this moment of anxiety’
+news_title: China imported coronavirus cases exceed new local infections for second day
+news_title: 152 Bangladeshis return from Italy; several shifted to makeshift Gazipur camp
+news_title: Argentina bans entry to non-residents arriving from coronavirus-hit countries
+news_title: Mexico braces for coronavirus lasting 'all year', tightens curbs
+news_title: Israel to use anti-terror tech to counter coronavirus ‘invisible enemy’
+news_title: Australia to impose 14-day self-isolation for all international arrivals
+news_title: 4 arrested over death of woman during robbery in Dhaka's Mugda
+news_title: Uzbekistan confirms first coronavirus case
+news_title: Thailand reports 32 new coronavirus cases, brings total to 114
+news_title: India duo ready to put Olympic dream ahead of coronavirus concerns
+news_title: UK to order four-month isolation for elderly
+news_title: Australian sevens players tested for coronavirus, HQ disinfected
+news_title: Chinese tycoon who criticised Xi’s response to coronavirus has vanished
+news_title: Malaysia reports 190 new coronavirus cases, most linked to mosque event
+news_title: India's coronavirus cases at 107 as Modi plans regional response
+news_title: Hindu group offers cow urine in a bid to ward off coronavirus
+news_title: Students go on hunger strike demanding DU shutdown over coronavirus
+news_title: Aramco 2019 profit drops, a week after shares fell below IPO
+news_title: The financial blow of the coronavirus on sports
+news_title: Inside the most secret place at Guantánamo Bay
+news_title: Iran's death toll from coronavirus reaches 724
+news_title: China tightens quarantine, airport checks as imported coronavirus cases tick up
+news_title: 2,314 overseas returnees are in ‘home quarantine’: IEDCR
+news_title: Man escapes from Dhaka hospital ahead of coronavirus testing
+news_title: Modi leads SAARC talks on roadmap to battle coronavirus
+news_title: Modi proposes coronavirus fund, makes $10m offer
+news_title: Germany tries to stop US from luring away firm seeking coronavirus vaccine
+news_title: Quarantined Bangladeshi returnees from Italy demonstrate in Gazipur
+Date: 2020-03-16
+https://bdnews24.com/archive/?date=2020-03-16
+Request status: OK
+Total news: 40
+news_title: Lockdowns and entry bans imposed around the world to fight coronavirus
+news_title: Saudi-returnee penalised for breaking quarantine in Manikganj
+news_title: As coronavirus deepens inequality, inequality worsens its spread
+news_title: How effective home quarantine is for Bangladesh to fight coronavirus
+news_title: Airports reel as new coronavirus screening goes into effect
+news_title: African nations close borders, cancel flights to contain coronavirus spread
+news_title: Pope in dramatic visit to empty Rome to pray for end of virus
+news_title: Colombia to expel four European visitors for violating quarantine
+news_title: Guatemala reports first coronavirus death, an elderly man back from Spain
+news_title: New York, LA shut bars and restaurants, world's central banks coordinate to combat coronavirus
+news_title: Europeans erect borders against coronavirus, but the enemy is already within
+news_title: Child murder in Sunamganj: father and uncle sentenced to death
+news_title: DU suspends all classes from Mar 18-28 amid coronavirus fears
+news_title: Bangladesh confirms three new coronavirus cases
+news_title: Govt shuts all educational institutions until Mar 31 amid virus scare
+news_title: Prime suspect in death of woman during robbery dies in ‘shootout’ with cops
+news_title: Northern Irish mother takes legal challenge to shut schools
+news_title: Government orders mandatory 14-day quarantine for returnees from abroad
+news_title: Coronavirus deaths pass 6,500 worldwide
+news_title: Georgia bans all foreigners from entering country over coronavirus
+news_title: Coronavirus has already muted one of New York's rowdiest nightlife areas
+news_title: Iran's death toll from coronavirus increases to 853
+news_title: In Afghanistan, coronavirus complicates war and peace
+news_title: US offered ‘large sum’ to German company for access to coronavirus vaccine research, German officials say
+news_title: Cinema halls across Bangladesh shuttered until Apr 2 amid coronavirus fears
+news_title: Spain plans extension of coronavirus state of emergency, mulls border shutdown
+news_title: Bangladesh to get $100m from World Bank to battle coronavirus
+news_title: 95 Bangladeshis return from Italy, Germany despite Europe travel ban
+news_title: 'It's okay to feel scared': Coronavirus brings countries close to standstill
+news_title: PSC postpones all recruitment tests until Mar 31 amid coronavirus scare
+Date: 2020-03-17
+https://bdnews24.com/archive/?date=2020-03-17
+Request status: OK
+Total news: 53
+news_title: Govt tightens quarantine requirement for overseas returnees
+news_title: UEFA to delay Euro 2020 due to coronavirus
+news_title: 'Hundreds' of inmates escape Brazil jails ahead of coronavirus lockdown
+news_title: 'We are at war': France imposes lockdown to combat virus
+news_title: "All is well." In Italy, triage and lies for virus patients
+news_title: Italy’s coronavirus victims face death alone, with funerals postponed
+news_title: Doctors fear bringing coronavirus home: ‘I am sort of a pariah in my family’
+news_title: Trump and US states ramp up drive to slow spread of coronavirus
+news_title: Coronavirus causes historic market drop, global scramble to contain 'invisible enemy'
+news_title: US tests first coronavirus vaccine
+news_title: Coronavirus closes India's Taj Mahal, Mumbai to keep half its office workers home
+news_title: Tom Hanks, wife Rita Wilson leave hospital after coronavirus treatment
+news_title: Coronavirus deaths cross 7,100 worldwide
+news_title: Bangladesh reports two more coronavirus cases
+news_title: For some buyers with virus fears, the priority isn’t toilet paper. It’s guns
+news_title: Philippines first country to suspend all markets as coronavirus spreads
+news_title: India confirms 3rd coronavirus death; number of infections rise to 125
+news_title: Four die in road crashes in Sirajganj, Munshiganj
+news_title: Iran has temporarily freed 85,000 prisoners, including political ones, amid coronavirus
+news_title: Pakistan postpones T20 league hours before semis in Lahore
+news_title: Coronavirus restrictions force cancellation of arctic research flights
+news_title: The projection that changed Britain's coronavirus policy
+news_title: Global travel seen falling 10.5pc this year: Travel Economics
+news_title: Two bombs explode outside Thai government office in Yala, wounding 18
+news_title: To track coronavirus, Israel moves to tap secret trove of cellphone data
+news_title: Pakistan reports first death from coronavirus
+news_title: Sri Lanka bans all incoming flights for two weeks to combat coronavirus
+news_title: Malaysia says pastor becomes country's first coronavirus death
+news_title: EC to monitor coronavirus impact before deciding on election
+news_title: Iraq returnee fined for breaking quarantine rules in Manikganj
+news_title: WHO confirms two coronavirus cases among its staff
+news_title: Spain's coronavirus cases surpass 10,000, death toll rises to 491
+news_title: Iran's death toll from coronavirus climbs to 988
+news_title: UN confirms 10 coronavirus cases among German refugees
+news_title: In slums and windowless apartments, Asia's poor bear brunt of coronavirus
+news_title: Coronavirus puts German economy on 'red alert'
+news_title: Markets plunge as a global recession appears almost inevitable
+news_title: Copa America postponed to 2021, says CONMEBOL
+news_title: Two foreign nationals denied entry into Bangladesh amid coronavirus scare
+news_title: Euro 2020 Championship postponed over coronavirus: UEFA
+news_title: Islamic Foundation urges returnees, suspected coronavirus patients to avoid mosques
+Date: 2020-03-18
+https://bdnews24.com/archive/?date=2020-03-18
+Request status: OK
+Total news: 48
+news_title: Saudi Arabia suspends prayers at mosques over coronavirus
+news_title: Is closing the schools a good idea?
+news_title: New coronavirus can persist in air for hours and on surfaces for days: study
+news_title: Two returnees fined for breaking quarantine in Shariatpur; locals besiege family in Bogura
+news_title: As China's coronavirus outbreak eases, a wary return to shops for consumers
+news_title: Trump now claims he always knew the coronavirus would be a pandemic
+news_title: Tracking the Coronavirus: how crowded Asian cities tackled an epidemic
+news_title: Global powers throw cash at spiralling coronavirus crisis
+news_title: China gives go-ahead for human trials of potential COVID-19 vaccine: state media
+news_title: Coronavirus pandemic hands Big Tech a chance to burnish its image
+news_title: Europe barricades borders to slow coronavirus
+news_title: Trump wants to send Americans $1,000 checks to cushion virus economic shock
+news_title: Media outlets change services over coronavirus epidemic
+news_title: The class of COVID-19
+news_title: Trump presses for $1tn stimulus as US coronavirus deaths cross 100
+news_title: World Bank adds $2bn to funds available for coronavirus response
+news_title: What Africa is doing to fight coronavirus
+news_title: Governments offer airlines aid as coronavirus drives deeper flight cuts
+news_title: Italy rushes new doctors into service as coronavirus deaths rise above 2,500
+news_title: Global stocks tumble as investors flee risk on coronavirus fears
+news_title: Japanese man who threatened to spread coronavirus dies
+news_title: Pakistan urges calm as coronavirus cases surge, Sri Lanka stops flights
+news_title: US plans to turn back migrants caught at Mexican border, cites coronavirus
+news_title: Man fined Tk 50,000 for breaking quarantine rules in Shariatpur
+news_title: Another Italy returnee tests positive for coronavirus
+news_title: India scrambles to escape a coronavirus crisis. So far, it’s working
+news_title: India says 276 citizens have tested positive for coronavirus overseas
+news_title: Bangladesh reports first coronavirus death
+news_title: Indian guru's tips to ward off coronavirus anger health professionals
+news_title: 'Greater than a tsunami': Malaysia warns of coronavirus spread if curbs ignored
+news_title: ADB announces $6.5 billion in response to coronavirus pandemic
+news_title: Iran's death toll from coronavirus jumps to 1,135
+news_title: Govt will do whatever it takes to save people from coronavirus: Quader
+news_title: Coronavirus deaths cross 8,400 worldwide
+news_title: Bangladesh suspends cultural activities after first coronavirus death
+news_title: Belgian video-calling robots to keep elderly connected during coronavirus
+news_title: Stunned world grapples with 'once-in-100-year' coronavirus battle
+news_title: Asian Football Confederation suspends play in AFC Cup competition
+news_title: Italy reports 475 new coronavirus deaths, lifting total death toll to 2,978
+news_title: Students must stay home in the time of coronavirus, government warns
+news_title: IEDCR widening COVID-19 testing, opens online reporting for suspected cases
+Date: 2020-03-19
+https://bdnews24.com/archive/?date=2020-03-19
+Request status: OK
+Total news: 51
+news_title: British schools to close to slow spread of coronavirus
+news_title: France reports huge spike in coronavirus deaths, raising total to 264
+news_title: US suspending visa services worldwide due to coronavirus: State Department
+news_title: Coronavirus triggers panic buying in Dhaka as stocks drop to 7-year low, gold prices fall
+news_title: Patients with fever, cold ‘overlooked’ in Dhaka hospitals amid coronavirus fears
+news_title: How Korea trounced US in race to test people for coronavirus
+news_title: Trump defends using ‘Chinese virus’ label, ignoring growing criticism
+news_title: UAE blocks non-Emiratis over coronavirus; Saudis cut budget
+news_title: More Mexican migrants crossing US border amid closure fears, shelters say
+news_title: Wall Street slumps again as fears continue to spiral, Dow all but erases 'Trump-bump'
+news_title: China hits a coronavirus milestone: no new local infections
+news_title: Italy threatens to ban outdoor exercise as coronavirus deaths surge
+news_title: New Zealand shuts border to all foreigners to curb spread of coronavirus
+news_title: Bangladesh closes archaeological sites and museums until Apr 2
+news_title: Bangladesh confirms three new cases of coronavirus
+news_title: Malaysia seeks Rohingyas for coronavirus checks after mosque outbreak
+news_title: RMCH intern doctors go on strike demanding protection against coronavirus risks
+news_title: Coronavirus deaths cross 8,900 worldwide
+news_title: Airline industry may not survive without state aid: Lufthansa
+news_title: Need a coronavirus test? Being rich and famous may help
+news_title: India locks down Kashmir region on coronavirus fears, S Asian markets slide
+news_title: Russia reports first coronavirus death
+news_title: BCB suspends all forms of cricket in Bangladesh amid virus fears
+news_title: Dhaka University instructs students to leave dormitories amid coronavirus scare
+news_title: From hero to zero: Coronavirus upends livelihoods across Europe
+news_title: Chattogram police ban social events in clubs, community centres amid virus risks
+news_title: Bangladesh assigns army to build coronavirus quarantine unit
+news_title: SC makes courts off-limits to prisoners, suspects amid virus risks
+news_title: In Iran, every 10 minutes one person dies from the coronavirus
+news_title: Shops, public transport ordered closed in Madaripur’s Shibchar to stem coronavirus spread
+news_title: EU's Brexit top negotiator Barnier has coronavirus
+news_title: ‘There are no funerals:’ Death in quarantine leaves nowhere to grieve
+news_title: India bans incoming flights to rein in coronavirus, seals off Kashmir
+news_title: H&M issues notice of temporary lay-offs to 2,000 staff in Norway, Iceland
+news_title: Rich world pumps aid to fight virus, Britain latest to face lockdown
+news_title: Thousands mass defying government to pray for coronavirus prevention in Bangladesh
+news_title: Coronavirus hits migrant workers in Qatar
+news_title: Muslim event in Indonesia stopped amid coronavirus fears
+news_title: Bangladesh closes bars to tackle coronavirus outbreak
+news_title: India's Modi wants citizens to impose curfew on Mar 22 to prevent spread of coronavirus
+news_title: Children and coronavirus: research finds some become seriously ill
+news_title: Seven more returnees with high temperature sent to hospital from airport
+news_title: Hasina wants ‘no extra measurers’ to protect herself from coronavirus, aide says
+news_title: UN chief warns global recession due to coronavirus 'a near certainty'
+news_title: reports 427 new coronavirus deaths, overtakes China's death toll
+Date: 2020-03-20
+https://bdnews24.com/archive/?date=2020-03-20
+Request status: OK
+Total news: 47
+news_title: Over 400 Bangladeshi expatriates return from Saudi Arabia amid coronavirus outbreak
+news_title: Burial for dead from coronavirus at Khilgaon-Taltola graveyard in Dhaka
+news_title: Five children die from measles, around 100 others infected in remote Rangamati villages
+news_title: Rajshahi-Dhaka bus services suspended over coronavirus
+news_title: UK returnee AL leader Kamran was ‘unaware of home quarantine’
+news_title: Job cut fears as fashion brands slash orders in Bangladesh with coronavirus
+news_title: Two members of US Congress test positive for coronavirus
+news_title: Army to run coronavirus quarantine units in Dhaka’s Ashkona, Diabari
+news_title: Bangladesh to ban all rallies after coronavirus advice defied
+news_title: Trump cancels G7 at Camp David over coronavirus, to hold video-conference instead
+news_title: Canada-US border to close as early as Friday as Canadians overseas try to get home
+news_title: Sri Lanka to delay elections due to coronavirus outbreak
+news_title: Virus hits Europe harder than China. Is that the price of an open society?
+news_title: China reports record new coronavirus cases from abroad
+news_title: Search for coronavirus vaccine becomes a global competition
+news_title: Man stabbed to death in Dhaka’s Banani
+news_title: Govt urges people to go to mosque for partial Friday prayers
+news_title: World feared China over coronavirus. Now the tables are turned
+news_title: ‘Wash our hands? Some people can’t wash their kids for a week’
+news_title: Worldwide coronavirus deaths exceed 10,000
+news_title: Coronavirus hits US Congress, with first cases, quarantines
+news_title: Indian state to close shops, offices in financial capital Mumbai
+news_title: Exhausted Dutch minister leading coronavirus fight quits
+news_title: Sri Lanka announces curfew over coronavirus again
+news_title: Coronavirus undermines Indian crop prices, derails rural rebound
+news_title: Malaysia to deploy army to help enforce coronavirus curbs
+news_title: Bangladesh reports three more  cases, one in critical condition
+news_title: Pakistani man, off to join the Islamic State group, is arrested at Minneapolis airport, US says
+news_title: Spain's coronavirus death toll surpasses 1,000
+news_title: Govt shuts Mirpur zoo to limit coronavirus spread
+news_title: Indonesian capital declares emergency over coronavirus
+news_title: National football coach Jamie Day to Bangladesh: maintain hygiene, social distancing
+news_title: Malaysia reports third coronavirus death
+news_title: Saudi Arabia announces $32 billion support to mitigate coronavirus impact on economy
+news_title: Malaysia reports 130 new coronavirus cases; 1,030 in total
+news_title: Amid coronavirus, God goes online to reach worshippers
+news_title: UK social distancing measures may last a year, government advisers say
+news_title: Cannes Film Festival postponed due to coronavirus, organisers say
+news_title: Brahmanbaria civil surgeon holds wedding party for daughter defying social gathering advice
+news_title: Strict restrictions imposed on four areas of Madaripur’s Shibchar over coronavirus
+news_title: ‘None of us have a fear of corona’: the faithful at an outbreak’s centre
+news_title: Italy coronavirus deaths surge by 627 in a day, lifting total death toll to 4,032
+Date: 2020-03-21
+https://bdnews24.com/archive/?date=2020-03-21
+Request status: OK
+Total news: 44
+news_title: What is herd immunity and will it affect the coronavirus pandemic?
+news_title: 60 million in New York, California restricted over coronavirus
+news_title: Two Air Force personnel recently at Pentagon test positive for coronavirus
+news_title: Bangladesh begins stamping returnees in hands for home quarantine at Dhaka airport
+news_title: Bangladesh punishes organisers of religious gathering for flouting coronavirus curbs
+news_title: Coronavirus comes as a blessing for rice traders as prices rise in Dhaka
+news_title: Dhaka-10 goes to by-polls Saturday amid coronavirus fears
+news_title: US senators face calls to resign for dumping stock before coronavirus crash
+news_title: Bangladesh cuts air connectivity with 10 countries over virus
+news_title: Indian singer Kanika Kapoor sued for coronavirus negligence
+news_title: Looking good under a mask: S Korean fashion evolves in the time of coronavirus
+news_title: Singapore reports first two virus deaths
+news_title: Thailand reports 89 new coronavirus cases in highest daily jump
+news_title: Dhaka by-polls underway amid coronavirus fears
+news_title: Panic buying, lockdowns may drive world food inflation: FAO, analysts
+news_title: Central Asia tightens restrictions as coronavirus spreads
+news_title: China's imported coronavirus cases jump as students, expats flock home
+news_title: ‘None of us have a fear of corona’: The faithful at an outbreak’s centre
+news_title: WHO message to youth on coronavirus: ‘You are not invincible’
+news_title: Australia's Bondi Beach closed after crowds defy coronavirus rules
+news_title: Can’t get tested? Maybe you’re in the wrong country
+news_title: Bangladesh confirms second death from coronavirus
+news_title: ‘A storm is coming’: Fears of an inmate epidemic as the virus spreads in the jails
+news_title: Mountaineer Wasfia Nazreen tests positive for coronavirus
+news_title: Worldwide coronavirus deaths exceed 11,000
+news_title: No food shortage, so don’t stock up for coronavirus threat: Hasina
+news_title: Country singer Kenny Rogers dies aged 81
+news_title: EC suspends Chattogram city polls amid coronavirus fears
+news_title: Special parliament session on Bangabandhu suspended over coronavirus
+news_title: Pakistan suspends international flights for two weeks to contain COVID-19
+news_title: Hamid, Hasina discuss coronavirus, Independence Day events
+news_title: Bangladesh cancels Independence Day events over coronavirus
+news_title: Bangladesh bringing coronavirus test kits, PPEs from China
+news_title: Egypt shuts mosques and churches over coronavirus fears
+news_title: Bangladesh health minister draws flak for crowded coronavirus media briefing
+news_title: At least 10 dead as truck rams passenger vehicle in Chattogram’s Lohagara
+news_title: Italy coronavirus deaths surge by 793 in a day, lifting total death toll to 4,825
+Date: 2020-03-22
+https://bdnews24.com/archive/?date=2020-03-22
+Request status: OK
+Total news: 51
+news_title: Britain's M&S warns of severe impact from coronavirus
+news_title: One dead in Sri Lanka jail clash as South Asia tries to stem virus
+news_title: Juventus's Dybala tests positive for coronavirus
+news_title: Former Milan defender Maldini and son infected with coronavirus
+news_title: Doctor detained for spreading coronavirus rumours on social media
+news_title: One in four Americans told to stay home as Congress nears $1 trln stimulus
+news_title: Spain warns the 'worst is yet to come' as coronavirus deaths surpass 1,300
+news_title: Italy, pandemic’s new epicentre, has lessons for the world
+news_title: India starts 14-hour curfew to curb coronavirus spread
+news_title: Singapore to ban on all short-term visitors in new virus measures
+news_title: Coronavirus suspect dies in Sylhet hospital
+news_title: Cuban doctors head to Italy to battle coronavirus
+news_title: Western universities rely on China. After the virus, that may not last
+news_title: Iran's coronavirus deaths rise to 1,556, infections exceed 20,000
+news_title: India curfew halts cargo flow through Petrapole
+news_title: China sees continued rise in imported coronavirus cases
+news_title: Global coronavirus deaths hit 13,049; infections rise to 307,280
+news_title: Trump says he has put Defence Production Act into gear to fight coronavirus
+news_title: Italy coronavirus deaths jump by almost 800, govt shuts most workplaces
+news_title: US FDA approves first rapid coronavirus test with 45 minutes detection time
+news_title: Singapore to ban all short-term visitors in unprecedented virus crisis
+news_title: Bangladesh bans foreigners’ arrivals through 11 land ports
+news_title: Islamic Foundation urges Muslims to pray at home on Shab-e-Meraj
+news_title: 'Stay at home' to avoid coronavirus, UK govt tells vulnerable
+news_title: Carew & Co goes for hand sanitiser production
+news_title: Amazon raises overtime pay for warehouse workers
+news_title: Army patrols Malaysian streets as coronavirus cases spike
+news_title: Fellaini tests positive for COVID-19, says club
+news_title: US Senate races to agree on massive coronavirus relief package
+news_title: Powerful quake kills one child in Croatia's capital
+news_title: Second dog in Hong Kong tests positive for Covid-19 virus
+news_title: HSC exams postponed amid coronavirus fears
+news_title: Bangladesh reports three more coronavirus cases
+news_title: Two deaths in Khulna after fever, coughs and breathing problems
+news_title: Iran's death toll from the coronavirus reaches 1,685
+news_title: The hardest questions doctors may face: Who will be saved? Who won’t?
+news_title: One in four Americans told to stay home as Congress nears $1tr stimulus
+news_title: Spain's coronavirus deaths surpass 1,700, cases over 28,000
+news_title: Pope calls for world prayer to stop coronavirus, will deliver special blessing
+news_title: Lockdowns not enough to defeat coronavirus: WHO's Ryan
+news_title: Bangladesh exempts coronavirus protection equipment from duties, taxes
+news_title: Two US returnees, who attended wedding reception in Bangladesh, test positive for coronavirus
+news_title: Shopping malls to shut from Mar 25 to 31 as coronavirus fears spook shoppers
+news_title: Primark to close its 189 stores in UK: Financial Times
+news_title: Indian business and transport suspended during 14-hour lockdown
+news_title: Emirates to stop all passenger flights, slash wages
+news_title: Elderly man in Dhaka’s Tolarbagh dies; police say he caught coronavirus
+Date: 2020-03-23
